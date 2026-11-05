@@ -20,6 +20,8 @@ const OVERRIDES = {
   ],
   "help.shortcuts": ["迷你模式：M；隐私模式：P。", "迷你模式：M；隱私模式：P。", "Mini: M. Privacy: P.", "ミニ：M、プライバシー：P。", "Mini: M. Privacidad: P.", "미니: M, 개인정보: P."],
   "mode.miniOnTip": ["进入迷你模式 / M", "進入迷你模式 / M", "Enter mini mode / M", "ミニモードへ / M", "Entrar en modo mini / M", "미니 모드 / M"],
+  "currency.hkd": ["港币 · HKD / HK$", "港幣 · HKD / HK$", "Hong Kong dollar · HKD / HK$", "香港ドル · HKD / HK$", "Dólar de Hong Kong · HKD / HK$", "홍콩 달러 · HKD / HK$"],
+  "currency.twd": ["新台币 · TWD / NT$", "新台幣 · TWD / NT$", "New Taiwan dollar · TWD / NT$", "台湾ドル · TWD / NT$", "Nuevo dólar taiwanés · TWD / NT$", "대만 달러 · TWD / NT$"],
   "web.credit": [
     "基于开源项目 Slaves Encourager（MIT）改编的网页版",
     "改編自開源專案 Slaves Encourager（MIT）的網頁版",

@@ -50,6 +50,8 @@ test("formatting and validation", () => {
   assert.equal(E.format(999.9, { ...s, Decimals: 0 }), "¥1,000");
   assert.equal(E.format(1234.56789, { ...s, Decimals: 4, Grouping: false, Pattern: "{amount} 元" }), "1234.5679 元");
   assert.equal(E.format(10, { ...s, Decimals: 4, Grouping: false, Currency: "USD", Pattern: "{symbol}{amount} {code}" }), "$10.0000 USD");
+  assert.equal(E.format(1234.5, { ...s, Currency: "HKD" }), "HK$1,234.50");
+  assert.equal(E.format(1234.5, { ...s, Currency: "TWD", Pattern: "{symbol}{amount} {code}" }), "NT$1,234.50 TWD");
   invalid({ ...s, Pattern: "{amount}{amount}" }, "Duplicate amount token");
   invalid({ ...s, Pattern: "{unknown}{amount}" }, "Unknown token");
   invalid({ ...s, Decimals: 7 }, "Precision");
