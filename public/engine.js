@@ -1,7 +1,7 @@
 // 计算核心，逐行对应上游 Engine.cs / Calculation core, a line-by-line port of upstream Engine.cs.
 // 时间一律按浏览器本地时区 / All times use the browser's local time zone.
 
-export const CURRENCIES = ["CNY", "USD", "EUR", "JPY", "HKD", "TWD"];
+export const CURRENCIES = ["CNY", "USD", "EUR", "JPY", "HKD", "TWD", "SGD", "MYR"];
 
 export function defaults(goalName = "A weekend getaway") {
   return {
@@ -211,7 +211,7 @@ export function calculate(now, s) {
   return snap;
 }
 
-const SYMBOLS = { USD: "$", EUR: "€", HKD: "HK$", TWD: "NT$" };
+const SYMBOLS = { USD: "$", EUR: "€", HKD: "HK$", TWD: "NT$", SGD: "S$", MYR: "RM" };
 export const symbol = (c) => SYMBOLS[c] ?? "¥";
 
 function fixed(value, decimals, grouping) {

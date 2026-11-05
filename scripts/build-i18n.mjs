@@ -22,6 +22,8 @@ const OVERRIDES = {
   "mode.miniOnTip": ["进入迷你模式 / M", "進入迷你模式 / M", "Enter mini mode / M", "ミニモードへ / M", "Entrar en modo mini / M", "미니 모드 / M"],
   "currency.hkd": ["港币 · HKD / HK$", "港幣 · HKD / HK$", "Hong Kong dollar · HKD / HK$", "香港ドル · HKD / HK$", "Dólar de Hong Kong · HKD / HK$", "홍콩 달러 · HKD / HK$"],
   "currency.twd": ["新台币 · TWD / NT$", "新台幣 · TWD / NT$", "New Taiwan dollar · TWD / NT$", "台湾ドル · TWD / NT$", "Nuevo dólar taiwanés · TWD / NT$", "대만 달러 · TWD / NT$"],
+  "currency.sgd": ["新加坡元 · SGD / S$", "新加坡元 · SGD / S$", "Singapore dollar · SGD / S$", "シンガポールドル · SGD / S$", "Dólar de Singapur · SGD / S$", "싱가포르 달러 · SGD / S$"],
+  "currency.myr": ["马来西亚林吉特 · MYR / RM", "馬來西亞令吉 · MYR / RM", "Malaysian ringgit · MYR / RM", "マレーシア・リンギット · MYR / RM", "Ringgit malayo · MYR / RM", "말레이시아 링깃 · MYR / RM"],
   "web.credit": [
     "基于开源项目 Slaves Encourager（MIT）改编的网页版",
     "改編自開源專案 Slaves Encourager（MIT）的網頁版",
