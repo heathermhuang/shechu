@@ -1,0 +1,182 @@
+<!doctype html>
+<html lang="zh-Hans">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>社畜鼓励器 · 让每一秒，都有回响</title>
+<meta name="description" content="社畜鼓励器：把上班时间变成看得见的收入。翻页数字实时显示今日已赚、下班倒计时、本期累计和奖励目标。数据只保存在你的浏览器。">
+<meta property="og:title" content="社畜鼓励器">
+<meta property="og:description" content="让每一秒，都有回响。实时看见今天已经赚了多少。">
+<meta property="og:image" content="https://shechu.com/icon.png">
+<meta name="theme-color" content="#F1F4FA">
+<link rel="icon" href="favicon.png">
+<link rel="apple-touch-icon" href="icon.png">
+<link rel="stylesheet" href="app.css">
+<script src="i18n.js"></script>
+<script type="module" src="app.js"></script>
+</head>
+<body>
+<main class="app" id="app">
+  <header class="bar">
+    <div class="brand"><img src="icon.png" alt="" width="30" height="30"><span data-t="app.name">社畜鼓励器</span></div>
+    <div class="bar-actions">
+      <select id="languageQuick" class="small" aria-label="Language"></select>
+    </div>
+  </header>
+
+  <section id="intro" class="intro">
+    <div class="kicker-row"><span class="kicker" data-t="main.kicker"></span><span class="kicker" id="dateText"></span></div>
+    <h1 data-t="main.headline"></h1>
+    <p class="muted" id="subtitleText"></p>
+  </section>
+
+  <section class="card hero">
+    <div class="row"><span class="muted" data-t="main.today"></span><span class="badge" id="statusText"></span></div>
+    <div class="flip-host" id="flipHost"><div class="flip-row" id="flipRow" aria-live="off"></div></div>
+    <div class="row tiny muted" id="ratePanel"><span id="rateText"></span><span class="num" data-t="main.live"></span></div>
+  </section>
+
+  <section id="details">
+    <div class="card">
+      <div class="row">
+        <div><div class="muted small-text" id="countdownLabel"></div><div class="muted tiny" id="scheduleText"></div></div>
+        <div class="num countdown" id="countdownText"></div>
+      </div>
+      <div class="progress"><i id="workProgress"></i></div>
+      <div class="row tiny"><span class="muted" id="hoursText"></span><span class="num accent" id="progressText"></span></div>
+    </div>
+    <div class="tiles">
+      <div class="card"><div class="muted tiny" data-t="main.hourly"></div><div class="num big" id="hourlyText"></div></div>
+      <div class="card"><div class="muted tiny" data-t="main.month"></div><div class="num big" id="monthText"></div></div>
+    </div>
+    <div class="card alt">
+      <div class="row">
+        <span class="muted tiny" id="goalHeadingText"></span>
+        <span class="goal-nav"><span class="num accent tiny" id="goalPercentText"></span>
+          <button id="prevGoal" class="icon" data-title="goal.previous">‹</button><button id="nextGoal" class="icon" data-title="goal.next">›</button></span>
+      </div>
+      <div class="row goal-title"><strong id="goalNameText"></strong><span class="num accent" id="goalAmountText"></span></div>
+      <div class="progress thin"><i id="goalProgress"></i></div>
+      <div class="muted tiny" id="goalHintText"></div>
+    </div>
+    <div class="card expense-card" id="expenseCard" hidden>
+      <div class="row"><span class="muted small-text" data-t="expense.pending"></span><span class="muted tiny" id="expenseBadge"></span></div>
+      <div class="progress red"><i id="expenseTotalBar"></i></div>
+      <div class="tiny red-text" id="expenseSummary"></div>
+      <div class="expense-rows" id="expenseRows"></div>
+    </div>
+    <p class="muted tiny footnote" id="footnoteText"></p>
+  </section>
+
+  <footer class="actions">
+    <div><button id="privacyButton" data-t="mode.privacy"></button><button id="miniButton" data-t="mode.mini"></button></div>
+    <div><button id="demoButton"></button><button id="settingsButton" class="primary"></button></div>
+  </footer>
+</main>
+<p class="credit"><span data-t="web.credit"></span> · <a href="https://github.com/thisemailrectrash-cpu/slaves-encourager" rel="noopener">GitHub</a></p>
+
+<dialog id="settingsDialog" class="sheet">
+  <form method="dialog" id="settingsForm" novalidate>
+    <h2 data-t="settings.headline"></h2>
+    <nav class="tabs" role="tablist">
+      <button type="button" role="tab" data-tab="salary" data-t="tab.salary"></button>
+      <button type="button" role="tab" data-tab="calendar" data-t="tab.calendar"></button>
+      <button type="button" role="tab" data-tab="goals" data-t="tab.goals"></button>
+      <button type="button" role="tab" data-tab="appearance" data-t="tab.appearance"></button>
+    </nav>
+
+    <section class="pane" data-pane="salary">
+      <label><span data-t="salary.amount"></span><input id="fSalary" type="number" min="1" step="any" inputmode="decimal"></label>
+      <div class="grid2">
+        <label><span data-t="salary.settlement"></span><select id="fSettlement"></select></label>
+        <label><span data-t="salary.basis"></span><select id="fBasis"><option value="actual" data-t="basis.actual"></option><option value="fixed" data-t="basis.fixed"></option></select></label>
+      </div>
+      <p class="help" data-t="salary.cycleHelp"></p>
+      <div class="grid2">
+        <label><span data-t="salary.start"></span><input id="fStart" type="time" required></label>
+        <label><span data-t="salary.end"></span><input id="fEnd" type="time" required></label>
+      </div>
+      <label class="check"><input id="fLunch" type="checkbox"><span data-t="salary.breakEnabled"></span></label>
+      <div class="grid2" id="lunchFields">
+        <label><span data-t="salary.breakStart"></span><input id="fLunchStart" type="time"></label>
+        <label><span data-t="salary.breakEnd"></span><input id="fLunchEnd" type="time"></label>
+      </div>
+      <fieldset><legend data-t="salary.weekdays"></legend><div class="weekdays" id="fWeekdays"></div></fieldset>
+      <p class="help" data-t="salary.help"></p>
+      <button type="button" class="link" id="openCalendar" data-t="calendar.open"></button>
+      <label class="check"><input id="fExpenses" type="checkbox"><span data-t="expense.enable"></span></label>
+      <div id="expenseEditor">
+        <div class="list-head"><strong data-t="expense.listTitle"></strong><button type="button" id="addExpense" data-t="expense.add"></button></div>
+        <div class="list" id="expenseList"></div>
+        <p class="help" data-t="expense.editorHelp"></p>
+      </div>
+      <button type="button" class="link" id="adjustIncome" data-t="income.adjust"></button>
+      <p class="help" id="adjustHint" hidden data-t="income.adjustHint"></p>
+    </section>
+
+    <section class="pane" data-pane="calendar" hidden>
+      <div class="cal-head">
+        <button type="button" id="calPrev" data-t="calendar.previous"></button>
+        <strong id="calTitle"></strong>
+        <button type="button" id="calToday" data-t="calendar.current"></button>
+        <button type="button" id="calNext" data-t="calendar.next"></button>
+      </div>
+      <div class="segmented" id="calModes">
+        <button type="button" data-mode="rest" data-t="calendar.rest"></button>
+        <button type="button" data-mode="work" data-t="calendar.work"></button>
+        <button type="button" data-mode="restore" data-t="calendar.restore"></button>
+      </div>
+      <p class="help" id="calHint"></p>
+      <div class="cal-grid" id="calGrid"></div>
+      <p class="help" id="calSummary"></p>
+    </section>
+
+    <section class="pane" data-pane="goals" hidden>
+      <div class="list-head"><strong data-t="goal.listTitle"></strong><button type="button" id="addGoal" data-t="goal.add"></button></div>
+      <div class="list" id="goalList"></div>
+      <p class="help" data-t="goal.allocationHelp"></p>
+    </section>
+
+    <section class="pane" data-pane="appearance" hidden>
+      <div class="grid2">
+        <label><span data-t="language.label"></span><select id="fLanguage"></select></label>
+        <label><span data-t="appearance.theme"></span><select id="fTheme"><option value="midnight" data-t="theme.mist"></option><option value="forest" data-t="theme.dusk"></option><option value="paper" data-t="theme.paper"></option></select></label>
+        <label><span data-t="appearance.animation"></span><select id="fAnimation"><option value="flip" data-t="animation.flip"></option><option value="slide" data-t="animation.slide"></option><option value="none" data-t="animation.none"></option></select></label>
+        <label><span data-t="appearance.speed"></span><select id="fSpeed"><option value="220" data-t="speed.fast"></option><option value="420" data-t="speed.normal"></option><option value="650" data-t="speed.slow"></option></select></label>
+        <label><span data-t="appearance.font"></span><select id="fFont"><option value="DIN" data-t="font.din"></option><option value="Mono" data-t="font.mono"></option><option value="Classic" data-t="font.classic"></option></select></label>
+        <label><span data-t="appearance.decimals"></span><select id="fDecimals"><option value="0" data-t="precision.0"></option><option value="1" data-t="precision.1"></option><option value="2" data-t="precision.2"></option><option value="3" data-t="precision.3"></option><option value="4" data-t="precision.4"></option></select></label>
+        <label><span data-t="appearance.currency"></span><select id="fCurrency"><option value="CNY" data-t="currency.cny"></option><option value="USD" data-t="currency.usd"></option><option value="EUR" data-t="currency.eur"></option><option value="JPY" data-t="currency.jpy"></option></select></label>
+        <label><span data-t="appearance.layout"></span><select id="fPattern"><option value="{symbol}{amount}" data-t="pattern.prefix"></option><option value="{amount} {code}" data-t="pattern.code"></option><option value="{amount}" data-t="pattern.number"></option><option value="custom" data-t="pattern.custom"></option></select></label>
+      </div>
+      <p class="help" data-t="currency.help"></p>
+      <label id="patternField"><span data-t="pattern.label"></span><input id="fPatternText" maxlength="48"></label>
+      <p class="help" data-t="pattern.help"></p>
+      <label class="check"><input id="fGrouping" type="checkbox"><span data-t="appearance.grouping"></span></label>
+      <div class="help-box"><strong data-t="help.title"></strong><p data-t="help.shortcuts"></p><p data-t="help.demo"></p><p data-t="help.local"></p></div>
+    </section>
+
+    <p class="error" id="formError" role="alert"></p>
+    <div class="sheet-actions">
+      <button type="button" id="cancelSettings" data-t="action.cancel"></button>
+      <button type="submit" class="primary" data-t="action.save"></button>
+    </div>
+  </form>
+</dialog>
+
+<dialog id="incomeDialog" class="sheet narrow">
+  <form method="dialog" id="incomeForm" novalidate>
+    <h2 data-t="income.title"></h2>
+    <p id="incomePeriod"></p>
+    <p class="big-text" id="incomeEstimate"></p>
+    <p class="help" data-t="income.help"></p>
+    <label><span id="incomeLabel"></span><input id="incomeAmount" type="number" min="0" step="0.01" inputmode="decimal"></label>
+    <p class="error" id="incomeError" role="alert"></p>
+    <div class="sheet-actions">
+      <button type="button" id="incomeZero" data-t="income.zero"></button>
+      <button type="button" id="incomeCancel" data-t="action.cancel"></button>
+      <button type="submit" class="primary" data-t="income.confirm"></button>
+    </div>
+  </form>
+</dialog>
+</body>
+</html>

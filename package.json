@@ -1,0 +1,10 @@
+{
+  "name": "shechu-web",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "i18n": "node scripts/build-i18n.mjs",
+    "test": "TZ=Asia/Shanghai node --test tests/*.test.mjs",
+    "deploy": "npx wrangler@4 deploy"
+  }
+}

@@ -1,0 +1,356 @@
+key	zh-Hans	zh-Hant	en	ja	es	ko
+app.name	牛马鼓励器 · BETA	牛馬鼓勵器 · BETA	Slaves Encourager · BETA	おしごと応援 · BETA	Ánimo Laboral · BETA	직장인 응원 · BETA
+settings.title	设置 · 牛马鼓励器	設定 · 牛馬鼓勵器	Settings · Slaves Encourager	設定 · おしごと応援	Ajustes · Ánimo Laboral	설정 · 직장인 응원
+main.pin	置顶	置頂	Pin	最前面	Fijar	고정
+main.pinned	已置顶	已置頂	Pinned	固定中	Fijado	고정됨
+main.pinTip	切换窗口置顶	切換視窗置頂	Keep this window on top	ウィンドウを最前面に表示	Mantener la ventana al frente	항상 위에 표시
+main.hideTip	隐藏到系统托盘	隱藏至系統匣	Hide to system tray	通知領域に隠す	Ocultar en la bandeja	시스템 트레이로 숨기기
+main.exitTip	退出程序	結束程式	Quit application	アプリを終了	Cerrar la aplicación	앱 종료
+main.kicker	每一秒，都值得被看见	每一秒，都值得被看見	SMALL SECONDS. REAL REWARDS.	小さな時間を、確かなごほうびに	CADA SEGUNDO CUENTA.	매 순간을, 작은 보상으로
+main.headline	让每一秒，都有回响。	讓每一秒，都有迴響。	Make every second count.	一秒ずつ、ごほうびへ。	Que cada segundo cuente.	매 순간을 보상으로.
+main.subtitle	把认真生活的时间，变成看得见的奖励。	把認真生活的時間，變成看得見的獎勵。	Turn your working hours into visible rewards.	がんばる時間を、見えるごほうびに。	Convierte tu tiempo en recompensas visibles.	열심히 보낸 시간을 눈에 보이는 보상으로.
+main.today	今日已赚	今日已賺	Earned today	今日の収入	Ganado hoy	오늘 번 금액
+main.demoBadge	● 演示 · 示例数据	● 示範 · 範例資料	● DEMO · Sample data	● デモ · サンプル	● DEMO · Datos de ejemplo	● 데모 · 예시 데이터
+main.countdownOff	距离下班	距離下班	Until clock-out	退勤まで	Hasta la salida	퇴근까지
+main.countdownOn	距离开工	距離開工	Until work starts	始業まで	Hasta empezar	출근까지
+main.hourly	每小时的价值	每小時的價值	Your hourly value	1時間の価値	Valor por hora	시간당 가치
+main.month	本期累计 · 估算	本期累計 · 估算	This cycle · estimated	今期の累計 · 推定	Este ciclo · estimado	이번 주기 누적 · 추정
+goal.heading	给自己的奖励	給自己的獎勵	Your next reward	自分へのごほうび	Tu próxima recompensa	나를 위한 보상
+goal.previous	上一个目标	上一個目標	Previous goal	前の目標	Objetivo anterior	이전 목표
+goal.next	下一个目标	下一個目標	Next goal	次の目標	Siguiente objetivo	다음 목표
+goal.default	下一站，周末旅行	下一站，週末旅行	A weekend getaway	週末の小旅行	Escapada de fin de semana	주말 여행
+main.footnote	收入按排班估算，过去工作日默认满勤。	收入按排班估算，過去工作日預設全勤。	Income is estimated; past shifts assume full attendance.	収入は推定です。過去の勤務日は皆勤として計算します。	Ingreso estimado; los turnos pasados se consideran completos.	수입은 추정치이며 지난 근무일은 만근으로 계산합니다.
+mode.privacy	隐私模式	隱私模式	Privacy mode	プライバシー	Modo privado	개인정보 모드
+mode.privacyOnTip	开启隐私模式 / Ctrl+Shift+P	開啟隱私模式 / Ctrl+Shift+P	Enable privacy / Ctrl+Shift+P	金額を隠す / Ctrl+Shift+P	Ocultar importes / Ctrl+Shift+P	금액 숨기기 / Ctrl+Shift+P
+mode.privacyOffTip	关闭隐私模式 / Ctrl+Shift+P	關閉隱私模式 / Ctrl+Shift+P	Disable privacy / Ctrl+Shift+P	金額を表示 / Ctrl+Shift+P	Mostrar importes / Ctrl+Shift+P	금액 표시 / Ctrl+Shift+P
+mode.mini	迷你模式	迷你模式	Mini mode	ミニ表示	Modo mini	미니 모드
+mode.miniOnTip	进入迷你模式 / Ctrl+M	進入迷你模式 / Ctrl+M	Enter mini mode / Ctrl+M	ミニ表示にする / Ctrl+M	Activar modo mini / Ctrl+M	미니 모드 켜기 / Ctrl+M
+mode.miniOffTip	退出迷你模式 / Ctrl+M	結束迷你模式 / Ctrl+M	Leave mini mode / Ctrl+M	通常表示に戻す / Ctrl+M	Salir del modo mini / Ctrl+M	미니 모드 끄기 / Ctrl+M
+main.demo	演示	示範	Demo	デモ	Demo	데모
+main.demoActive	演示中	示範中	Demo on	デモ中	Demo activa	데모 중
+main.demoTip	切换示例数据和真实时间	切換範例資料與實際時間	Switch sample data and local time	サンプルと実際の時刻を切り替え	Alternar ejemplo y hora real	예시와 실제 시간 전환
+main.firstUse	第一次使用设置	第一次使用設定	First-time setup	初回設定	Configuración inicial	처음 사용 설정
+settings.open	外观与设置	外觀與設定	Appearance & settings	表示と設定	Apariencia y ajustes	모양 및 설정
+settings.headline	把它，调成你的样子。	把它，調成你的樣子。	Make it feel like you.	自分らしく、カスタマイズ。	Hazlo a tu manera.	나만의 모습으로.
+settings.previewHint	外观实时预览，保存后生效。	外觀即時預覽，儲存後生效。	Live preview. Save to apply.	プレビューを確認して保存してください。	Vista previa en directo. Guarda para aplicar.	미리 확인하고 저장하면 적용됩니다.
+language.label	语言	語言	Language	言語	Idioma	언어
+language.auto	跟随系统 / System	跟隨系統 / System	Follow system	システムに合わせる	Seguir al sistema	시스템 설정 따르기
+tab.appearance	数字与外观	數字與外觀	Appearance	表示	Apariencia	모양
+appearance.animation	数字动效	數字動效	Number animation	数字のアニメーション	Animación de cifras	숫자 애니메이션
+animation.flip	翻页时钟	翻頁時鐘	Flip clock	フリップ時計	Reloj de solapas	플립 시계
+animation.slide	轻盈滚动	輕盈捲動	Smooth slide	なめらかなスクロール	Deslizamiento suave	부드러운 슬라이드
+animation.none	纯净数字 · 无动效	純淨數字 · 無動效	Plain digits · no animation	シンプル · 動きなし	Cifras simples · sin animación	기본 숫자 · 효과 없음
+appearance.theme	配色主题	配色主題	Color theme	配色テーマ	Tema de color	색상 테마
+theme.mist	雾蓝暖杏	霧藍暖杏	Misty blue	ミストブルー	Azul suave	안개빛 블루
+theme.dusk	暮色薰衣草	暮色薰衣草	Lavender dusk	ラベンダーの夕暮れ	Lavanda al atardecer	라벤더 노을
+theme.paper	奶油纸张	奶油紙張	Cream paper	クリームペーパー	Papel crema	크림 페이퍼
+appearance.font	数字字体	數字字型	Number font	数字の書体	Fuente numérica	숫자 글꼴
+font.din	DIN · 工业时钟	DIN · 工業時鐘	DIN · clockwork	DIN · 時計風	DIN · reloj	DIN · 시계 스타일
+font.mono	Mono · 等宽数字	Mono · 等寬數字	Mono · monospaced	Mono · 等幅	Mono · monoespaciada	Mono · 고정폭
+font.classic	Classic · 经典衬线	Classic · 經典襯線	Classic · serif	Classic · セリフ	Classic · con serifa	Classic · 세리프
+appearance.decimals	小数位数	小數位數	Decimal places	小数点以下の桁数	Decimales	소수 자릿수
+precision.0	0 位 · 1,235	0 位 · 1,235	0 places · 1,235	0桁 · 1,235	0 decimales · 1,235	0자리 · 1,235
+precision.1	1 位 · 1,234.6	1 位 · 1,234.6	1 place · 1,234.6	1桁 · 1,234.6	1 decimal · 1,234.6	1자리 · 1,234.6
+precision.2	2 位 · 1,234.56	2 位 · 1,234.56	2 places · 1,234.56	2桁 · 1,234.56	2 decimales · 1,234.56	2자리 · 1,234.56
+precision.3	3 位 · 1,234.568	3 位 · 1,234.568	3 places · 1,234.568	3桁 · 1,234.568	3 decimales · 1,234.568	3자리 · 1,234.568
+precision.4	4 位 · 1,234.5678	4 位 · 1,234.5678	4 places · 1,234.5678	4桁 · 1,234.5678	4 decimales · 1,234.5678	4자리 · 1,234.5678
+appearance.currency	显示货币	顯示貨幣	Display currency	表示通貨	Moneda mostrada	표시 통화
+currency.cny	人民币 · CNY / ¥	人民幣 · CNY / ¥	Chinese yuan · CNY / ¥	人民元 · CNY / ¥	Yuan chino · CNY / ¥	중국 위안 · CNY / ¥
+currency.usd	美元 · USD / $	美元 · USD / $	US dollar · USD / $	米ドル · USD / $	Dólar estadounidense · USD / $	미국 달러 · USD / $
+currency.eur	欧元 · EUR / €	歐元 · EUR / €	Euro · EUR / €	ユーロ · EUR / €	Euro · EUR / €	유로 · EUR / €
+currency.jpy	日元 · JPY / ¥	日圓 · JPY / ¥	Japanese yen · JPY / ¥	日本円 · JPY / ¥	Yen japonés · JPY / ¥	일본 엔 · JPY / ¥
+appearance.grouping	使用千分位分隔符（1,234,567）	使用千分位分隔符（1,234,567）	Use grouping separators (1,234,567)	桁区切りを使う（1,234,567）	Separar millares (1,234,567)	천 단위 구분 (1,234,567)
+appearance.layout	金额排列	金額排列	Amount layout	金額の配置	Formato del importe	금액 배치
+pattern.prefix	¥1,234.568 · 符号在前	¥1,234.568 · 符號在前	¥1,234.568 · symbol first	¥1,234.568 · 記号を前に	¥1,234.568 · símbolo delante	¥1,234.568 · 기호 앞에
+pattern.code	1,234.568 CNY · 代码在后	1,234.568 CNY · 代碼在後	1,234.568 CNY · code after	1,234.568 CNY · 通貨コードを後ろに	1,234.568 CNY · código detrás	1,234.568 CNY · 코드 뒤에
+pattern.number	1,234.568 · 仅数字	1,234.568 · 僅數字	1,234.568 · digits only	1,234.568 · 数字のみ	1,234.568 · solo cifras	1,234.568 · 숫자만
+pattern.custom	自定义模板	自訂範本	Custom template	カスタム書式	Plantilla personalizada	사용자 지정 형식
+pattern.label	自定义格式模板	自訂格式範本	Custom format template	カスタム書式テンプレート	Plantilla de formato	사용자 지정 표시 형식
+pattern.help	支持 {amount} 金额、{symbol} 符号、{code} 代码。	支援 {amount} 金額、{symbol} 符號、{code} 代碼。	Use {amount}, {symbol} and {code}.	{amount}、{symbol}、{code} が使えます。	Usa {amount}, {symbol} y {code}.	{amount}, {symbol}, {code}를 사용할 수 있습니다.
+appearance.speed	翻页速度	翻頁速度	Animation speed	動きの速さ	Velocidad de animación	애니메이션 속도
+speed.fast	利落 · 220 ms	俐落 · 220 ms	Snappy · 220 ms	きびきび · 220 ms	Ágil · 220 ms	빠르게 · 220 ms
+speed.normal	舒缓 · 420 ms	舒緩 · 420 ms	Relaxed · 420 ms	ゆったり · 420 ms	Suave · 420 ms	편안하게 · 420 ms
+speed.slow	慵懒 · 650 ms	慵懶 · 650 ms	Leisurely · 650 ms	のんびり · 650 ms	Pausada · 650 ms	느긋하게 · 650 ms
+currency.help	仅改变显示符号，不进行汇率换算。	僅變更顯示符號，不進行匯率換算。	Symbols only; no currency conversion.	表示記号のみ変更します。為替換算は行いません。	Solo cambia el símbolo; no convierte divisas.	기호만 변경하며 환율 변환은 하지 않습니다.
+tab.salary	工资与排班	薪資與排班	Pay & schedule	給与と勤務	Sueldo y horario	급여 및 근무
+salary.amount	月薪金额	月薪金額	Monthly salary	月給	Sueldo mensual	월급
+salary.basis	折算口径	折算方式	Calculation basis	計算方法	Base de cálculo	계산 기준
+basis.actual	按本期排班天数分摊	按本期排班天數分攤	Divide by scheduled days in this cycle	今期の勤務日数で按分	Dividir por los días del ciclo	이번 주기 근무일 수로 나누기
+basis.fixed	固定 21.75 天折算	固定 21.75 天折算	Use a fixed 21.75-day basis	21.75日固定で計算	Usar una base fija de 21,75 días	고정 21.75일 기준
+salary.start	上班时间 · HH:mm	上班時間 · HH:mm	Work starts · HH:mm	始業時刻 · HH:mm	Entrada · HH:mm	출근 시간 · HH:mm
+salary.end	下班时间 · 支持跨午夜	下班時間 · 支援跨午夜	Work ends · overnight supported	終業時刻 · 日またぎ対応	Salida · admite turnos nocturnos	퇴근 시간 · 야간 근무 지원
+salary.breakEnabled	扣除固定休息时段	扣除固定休息時段	Exclude a fixed break	固定の休憩時間を差し引く	Descontar un descanso fijo	고정 휴게 시간 제외
+salary.breakStart	休息开始	休息開始	Break starts	休憩開始	Inicio del descanso	휴게 시작
+salary.breakEnd	休息结束	休息結束	Break ends	休憩終了	Fin del descanso	휴게 종료
+salary.weekdays	每周工作日	每週工作日	Weekly workdays	毎週の勤務曜日	Días laborables	주간 근무일
+weekday.mon	一	一	Mon	月	Lun	월
+weekday.tue	二	二	Tue	火	Mar	화
+weekday.wed	三	三	Wed	水	Mié	수
+weekday.thu	四	四	Thu	木	Jue	목
+weekday.fri	五	五	Fri	金	Vie	금
+weekday.sat	六	六	Sat	土	Sáb	토
+weekday.sun	日	日	Sun	日	Dom	일
+calendar.open	打开休息与补班日历 →	開啟休息與補班日曆 →	Open schedule calendar →	勤務カレンダーを開く →	Abrir calendario laboral →	근무 달력 열기 →
+salary.help	在日历中点选休息与补班。收入按排班估算，过去工作日默认满勤。	在日曆中點選休息與補班。收入按排班估算，過去工作日預設全勤。	Set days off and extra shifts in the calendar. Past shifts assume full attendance.	休日や追加出勤はカレンダーで指定します。過去の勤務日は皆勤として計算します。	Marca descansos y turnos extra en el calendario. Los turnos pasados se consideran completos.	달력에서 휴일과 추가 근무를 지정하세요. 지난 근무일은 만근으로 계산합니다.
+tab.calendar	休息与补班	休息與補班	Calendar	カレンダー	Calendario	달력
+tab.goals	目标与使用	目標與使用	Goals & tips	目標と使い方	Metas y ayuda	목표 및 도움말
+goal.listTitle	给自己的奖励清单	給自己的獎勵清單	Your reward list	ごほうびリスト	Tu lista de recompensas	나를 위한 보상 목록
+goal.add	＋ 新增目标	＋ 新增目標	＋ Add goal	＋ 目標を追加	＋ Añadir meta	＋ 목표 추가
+goal.allocationHelp	本期收入先覆盖已启用的生活开支，余下的按目标清单顺序分配。	本期收入先覆蓋已啟用的生活開支，餘下的按目標清單順序分配。	This cycle's income covers enabled expenses first, then goals in list order.	今期の収入は有効な生活費へ先に充当し、残額を目標の順に配分します。	El ingreso cubre primero los gastos activados y después las metas por orden.	이번 주기 수입은 활성화한 생활비를 먼저 충당하고 나머지를 목표 순서대로 배분합니다.
+goal.estimateHelp	目标按估算收入累计，并非实际储蓄；每个工资周期重新计数。	目標按估算收入累計，並非實際儲蓄；每個薪資週期重新計數。	Goals use estimated income, not savings, and reset each pay cycle.	目標は推定収入に基づき、貯金残高ではありません。給与の周期ごとにリセットします。	Las metas usan ingresos estimados, no ahorros, y se reinician cada ciclo salarial.	목표는 저축이 아닌 추정 수입 기준이며 급여 주기마다 초기화됩니다.
+help.title	随手使用	隨手使用	Quick tips	使い方のヒント	Consejos rápidos	빠른 도움말
+help.drag	主窗口的任意非按钮区域都可拖动；置顶让它留在前台。	主視窗的任意非按鈕區域都可拖曳；置頂讓它留在前方。	Drag any non-button area. Pin keeps the window on top.	ボタン以外の場所をドラッグして移動できます。固定で最前面に表示します。	Arrastra cualquier zona sin botones. Fijar mantiene la ventana al frente.	버튼 외 영역을 드래그해 이동하세요. 고정하면 항상 위에 표시됩니다.
+help.shortcuts	迷你模式：Ctrl+M；隐私模式：Ctrl+Shift+P。	迷你模式：Ctrl+M；隱私模式：Ctrl+Shift+P。	Mini: Ctrl+M. Privacy: Ctrl+Shift+P.	ミニ表示：Ctrl+M。金額非表示：Ctrl+Shift+P。	Mini: Ctrl+M. Privacidad: Ctrl+Shift+P.	미니: Ctrl+M. 개인정보: Ctrl+Shift+P.
+help.focus	快捷键在窗口获得焦点时生效。	快捷鍵在視窗取得焦點時生效。	Shortcuts work while this window has focus.	ショートカットはこのウィンドウが選択されているときに使えます。	Los atajos funcionan con esta ventana activa.	이 창이 활성화되어 있을 때 단축키가 작동합니다.
+help.tray	“—”隐藏到托盘，双击托盘图标恢复；“×”退出。	「—」隱藏至系統匣，按兩下圖示恢復；「×」結束。	“—” hides to the tray; double-click its icon to restore. “×” quits.	「—」で通知領域に隠し、アイコンのダブルクリックで戻します。「×」で終了。	“—” oculta en la bandeja; doble clic en el icono para volver. “×” cierra.	“—”는 트레이로 숨기고 아이콘을 두 번 클릭하면 복원됩니다. “×”는 종료합니다.
+help.demo	首次使用显示演示数据；保存工资后按真实时间计算。	首次使用顯示示範資料；儲存薪資後按實際時間計算。	First launch shows sample data; save your salary to use local time.	初回はサンプルです。給与を保存すると実際の時刻で計算します。	Al inicio se muestran ejemplos; guarda tu sueldo para usar la hora real.	처음에는 예시가 표시됩니다. 급여를 저장하면 실제 시간으로 계산합니다.
+help.local	所有设置仅保存在此电脑，无需登录或联网。	所有設定僅儲存在此電腦，無須登入或連線。	Everything stays on this computer. No login or network required.	設定はこのPC内に保存します。ログインや通信は不要です。	Todo se guarda en este equipo. No requiere cuenta ni conexión.	모든 설정은 이 컴퓨터에 저장됩니다. 로그인과 인터넷이 필요 없습니다.
+action.cancel	取消	取消	Cancel	キャンセル	Cancelar	취소
+action.save	保存并应用	儲存並套用	Save & apply	保存して適用	Guardar y aplicar	저장 및 적용
+main.setupHint	正在展示示例，请先设置你的工资。	正在顯示範例，請先設定你的薪資。	Showing sample data. Set up your salary first.	サンプルを表示中です。まず給与を設定してください。	Se muestran datos de ejemplo. Configura tu sueldo.	예시 데이터입니다. 먼저 급여를 설정하세요.
+main.hidden	金额已隐藏，安心共享屏幕。	金額已隱藏，安心分享畫面。	Amounts hidden. Share your screen comfortably.	金額を隠しています。安心して画面共有できます。	Importes ocultos. Comparte tu pantalla con tranquilidad.	금액이 숨겨졌습니다. 안심하고 화면을 공유하세요.
+main.rate	每秒 + {0}	每秒 + {0}	Per second + {0}	毎秒 + {0}	Por segundo + {0}	초당 + {0}
+main.live	实时	即時	LIVE	リアルタイム	EN DIRECTO	실시간
+main.breakSuffix	 · 含休息	 · 含休息	 · includes break	 · 休憩あり	 · con descanso	 · 휴게 포함
+main.hours	已完成 {0:F2} / {1:F2} 小时	已完成 {0:F2} / {1:F2} 小時	Worked {0:F2} / {1:F2} h	勤務 {0:F2} / {1:F2} 時間	Trabajadas {0:F2} / {1:F2} h	근무 {0:F2} / {1:F2}시간
+goal.index	给自己的奖励 · {0} / {1}	給自己的獎勵 · {0} / {1}	Your reward · {0} / {1}	ごほうび · {0} / {1}	Tu recompensa · {0} / {1}	나를 위한 보상 · {0} / {1}
+goal.emptyTitle	添加你的第一个目标	新增你的第一個目標	Add your first goal	最初の目標を追加	Añade tu primera meta	첫 목표 추가
+goal.hidden	奖励进度已隐藏	獎勵進度已隱藏	Reward progress hidden	ごほうびの進捗を非表示	Progreso de metas oculto	보상 진행률 숨김
+goal.emptyHint	在设置中添加一份期待。	在設定中新增一份期待。	Add something to look forward to in settings.	設定で楽しみな目標を追加しましょう。	Añade una ilusión en los ajustes.	설정에서 기대되는 목표를 추가하세요.
+goal.allDone	全部目标已达成，奖励一下自己吧。	全部目標已達成，獎勵一下自己吧。	All goals reached. Treat yourself.	すべて達成！自分にごほうびを。	¡Todas las metas cumplidas! Date un premio.	모든 목표 달성! 나에게 보상을 주세요.
+goal.done	此目标已达成，收入继续流入下一个。	此目標已達成，收入繼續流入下一個。	Goal reached. Income flows to the next one.	この目標は達成済み。収入は次の目標へ。	Meta cumplida. El ingreso pasa a la siguiente.	목표 달성! 수입이 다음 목표로 이어집니다.
+goal.remaining	按清单顺序分配，达成此目标还需约 {0:F1} 小时	按清單順序分配，達成此目標還需約 {0:F1} 小時	About {0:F1} work hours to reach this goal in order	順番に割り当てた場合、達成まで約 {0:F1} 時間	Faltan unas {0:F1} horas de trabajo para esta meta	순서대로 배분 시 달성까지 약 {0:F1}시간
+main.actualFootnote	本期 {0} 个排班日均摊 · 收入按排班估算	本期 {0} 個排班日均攤 · 收入按排班估算	Spread across {0} shifts this cycle · estimated income	今期 {0} 勤務日で按分 · 推定収入	Repartido entre {0} turnos del ciclo · estimado	이번 주기 {0}일로 나눔 · 추정 수입
+main.fixedFootnote	固定 21.75 天折算 · 收入按排班估算	固定 21.75 天折算 · 收入按排班估算	Fixed 21.75-day basis · estimated income	21.75日固定 · 推定収入	Base fija de 21,75 días · estimado	고정 21.75일 기준 · 추정 수입
+tray.show	显示悬窗	顯示浮動視窗	Show window	ウィンドウを表示	Mostrar ventana	창 표시
+tray.mini	迷你 / 完整	迷你 / 完整	Mini / full	ミニ / 通常	Mini / completo	미니 / 전체
+tray.quit	退出	結束	Quit	終了	Salir	종료
+sample.coffee	给自己一杯好咖啡	給自己一杯好咖啡	A really good coffee	ちょっといいコーヒー	Un buen café	맛있는 커피 한 잔
+sample.headphones	新耳机，新心情	新耳機，新心情	New headphones, new mood	新しいヘッドホン	Auriculares nuevos	새 헤드폰, 새 기분
+goal.new	新的小目标	新的小目標	A new little goal	新しい小さな目標	Una nueva pequeña meta	새로운 작은 목표
+error.operation	操作未完成：{0}	操作未完成：{0}	Could not complete the action: {0}	操作を完了できませんでした：{0}	No se pudo completar la acción: {0}	작업을 완료하지 못했습니다: {0}
+error.startup	无法启动：{0}	無法啟動：{0}	Could not start: {0}	起動できませんでした：{0}	No se pudo iniciar: {0}	시작할 수 없습니다: {0}
+error.save	设置未保存：{0}	設定未儲存：{0}	Settings were not saved: {0}	設定を保存できませんでした：{0}	No se guardaron los ajustes: {0}	설정을 저장하지 못했습니다: {0}
+error.load	设置无法读取，正在使用示例，原文件已保留。	設定無法讀取，正在使用範例，原檔案已保留。	Could not read settings. Using samples; the original file is preserved.	設定を読み込めません。元ファイルを残してサンプルを表示します。	No se pudieron leer los ajustes. Se usa un ejemplo; el original se conserva.	설정을 읽지 못해 예시를 표시합니다. 원본 파일은 보존됩니다.
+status.rest	休息日	休息日	Day off	休日	Día libre	휴일
+status.before	尚未开工	尚未開工	Not started	始業前	Sin empezar	근무 전
+status.after	已下班	已下班	Clocked out	退勤後	Jornada terminada	퇴근 완료
+status.earning	正在进账	正在進帳	Earning now	収入カウント中	Ganando ahora	수입 집계 중
+status.break	休息一下	休息一下	On a break	休憩中	En descanso	휴게 중
+calendar.previous	上个月	上個月	Previous month	前の月	Mes anterior	이전 달
+calendar.current	本月	本月	This month	今月	Este mes	이번 달
+calendar.currentTip	回到本月	回到本月	Back to this month	今月に戻る	Volver a este mes	이번 달로 이동
+calendar.next	下个月	下個月	Next month	次の月	Mes siguiente	다음 달
+calendar.rest	标为休息	標為休息	Mark day off	休日にする	Marcar descanso	휴일로 지정
+calendar.work	标为补班	標為補班	Mark extra shift	追加出勤にする	Marcar turno extra	추가 근무 지정
+calendar.restore	恢复排班	恢復排班	Restore schedule	通常の予定に戻す	Restaurar horario	기본 일정 복원
+calendar.restMark	休	休	OFF	休	LIB	휴
+calendar.workMark	班	班	ON	勤	EXT	근
+calendar.restSuffix	 · 额外休息	 · 額外休息	 · extra day off	 · 指定休日	 · descanso extra	 · 추가 휴일
+calendar.workSuffix	 · 额外补班	 · 額外補班	 · extra shift	 · 追加出勤	 · turno extra	 · 추가 근무
+calendar.normalSuffix	 · 每周排班	 · 每週排班	 · weekly schedule	 · 通常の予定	 · horario semanal	 · 기본 주간 일정
+calendar.restoreHint	点选日期恢复每周排班。	點選日期恢復每週排班。	Click a date to restore its weekly schedule.	日付を選ぶと通常の予定に戻ります。	Pulsa una fecha para restaurar su horario semanal.	날짜를 클릭하면 기본 주간 일정으로 복원됩니다.
+calendar.restHint	点选日期设为休息，同一模式再点一次取消。	點選日期設為休息，同一模式再點一次取消。	Click a date for a day off. Click again to clear it.	日付を選んで休日にします。もう一度選ぶと解除します。	Pulsa una fecha para descansar; repite para cancelar.	날짜를 눌러 휴일로 지정하고 다시 누르면 해제됩니다.
+calendar.workHint	点选日期设为补班，同一模式再点一次取消。	點選日期設為補班，同一模式再點一次取消。	Click a date for an extra shift. Click again to clear it.	日付を選んで追加出勤にします。もう一度選ぶと解除します。	Pulsa una fecha para un turno extra; repite para cancelar.	날짜를 눌러 추가 근무로 지정하고 다시 누르면 해제됩니다.
+calendar.summary	已设置 {0} 天休息、{1} 天补班，保存后生效。	已設定 {0} 天休息、{1} 天補班，儲存後生效。	{0} days off, {1} extra shifts. Save to apply.	休日 {0} 日、追加出勤 {1} 日。保存で適用します。	{0} descansos y {1} turnos extra. Guarda para aplicar.	휴일 {0}일, 추가 근무 {1}일. 저장하면 적용됩니다.
+goal.moveUp	目标上移	目標上移	Move goal up	目標を上へ	Subir meta	목표 위로
+goal.moveDown	目标下移	目標下移	Move goal down	目標を下へ	Bajar meta	목표 아래로
+goal.remove	移除	移除	Remove	削除	Quitar	삭제
+goal.removeTip	移除目标	移除目標	Remove goal	目標を削除	Quitar meta	목표 삭제
+goal.name	目标名称	目標名稱	Goal name	目標名	Nombre de la meta	목표 이름
+goal.amount	目标金额	目標金額	Goal amount	目標金額	Importe de la meta	목표 금액
+goal.amountShort	金额	金額	Amount	金額	Importe	금액
+goal.number	目标 {0}	目標 {0}	Goal {0}	目標 {0}	Meta {0}	목표 {0}
+goal.emptyEditor	还没有目标，点击“新增目标”添加一份期待。	還沒有目標，點選「新增目標」新增一份期待。	No goals yet. Add something to look forward to.	まだ目標がありません。楽しみな予定を追加しましょう。	Aún no hay metas. Añade algo que te ilusione.	아직 목표가 없습니다. 기대되는 일을 추가해 보세요.
+validation.salary	月薪需大于 0 且不超过 100,000,000。	月薪須大於 0 且不超過 100,000,000。	Salary must be above 0 and at most 100,000,000.	月給は0より大きく100,000,000以下にしてください。	El sueldo debe ser mayor que 0 y no superar 100.000.000.	월급은 0보다 크고 100,000,000 이하여야 합니다.
+validation.shift	上下班时间不能相同；支持跨午夜班次。	上下班時間不能相同；支援跨午夜班次。	Start and end times must differ. Overnight shifts are supported.	始業と終業は異なる時刻にしてください。日またぎ勤務に対応します。	La entrada y salida deben diferir. Se admiten turnos nocturnos.	출퇴근 시간은 달라야 합니다. 야간 근무를 지원합니다.
+validation.breakEqual	休息开始和结束时间不能相同。	休息開始與結束時間不能相同。	Break start and end times must differ.	休憩の開始と終了は異なる時刻にしてください。	El inicio y fin del descanso deben diferir.	휴게 시작과 종료 시간은 달라야 합니다.
+validation.breakBounds	休息必须在班次内，且不能占满整个班次。	休息須在班次內，且不能佔滿整個班次。	The break must be inside the shift and shorter than it.	休憩は勤務時間内で、勤務全体より短くしてください。	El descanso debe estar dentro del turno y ser más corto.	휴게 시간은 근무 시간 안에 있어야 하며 전체 근무보다 짧아야 합니다.
+validation.weekdays	至少选择一个每周工作日。	至少選擇一個每週工作日。	Select at least one weekly workday.	勤務曜日を1つ以上選んでください。	Selecciona al menos un día laborable.	근무일을 하나 이상 선택하세요.
+validation.dateConflict	同一天不能同时设为休息和补班。	同一天不能同時設為休息與補班。	A date cannot be both a day off and an extra shift.	同じ日を休日と追加出勤の両方にはできません。	Una fecha no puede ser descanso y turno extra a la vez.	같은 날짜를 휴일과 추가 근무로 동시에 지정할 수 없습니다.
+validation.basis	未知计薪口径。	未知計薪方式。	Unknown calculation basis.	計算方法が不明です。	Base de cálculo desconocida.	알 수 없는 계산 기준입니다.
+validation.decimals	小数位可选 0 至 4。	小數位可選 0 至 4。	Choose 0 to 4 decimal places.	小数点以下は0～4桁から選んでください。	Elige de 0 a 4 decimales.	소수 자릿수는 0~4자리입니다.
+validation.currency	未知货币。	未知貨幣。	Unknown currency.	通貨が不明です。	Moneda desconocida.	알 수 없는 통화입니다.
+validation.animation	未知数字动效。	未知數字動效。	Unknown number animation.	数字アニメーションが不明です。	Animación desconocida.	알 수 없는 숫자 효과입니다.
+validation.font	未知数字字体。	未知數字字型。	Unknown number font.	数字の書体が不明です。	Fuente numérica desconocida.	알 수 없는 숫자 글꼴입니다.
+validation.theme	未知主题。	未知主題。	Unknown theme.	テーマが不明です。	Tema desconocido.	알 수 없는 테마입니다.
+validation.speed	动效时长需在 160 至 700 毫秒。	動效時間須在 160 至 700 毫秒。	Animation duration must be 160–700 ms.	動きの長さは160～700ミリ秒にしてください。	La animación debe durar entre 160 y 700 ms.	애니메이션 시간은 160~700ms여야 합니다.
+validation.goalCount	最多可添加 20 个目标。	最多可新增 20 個目標。	You can add up to 20 goals.	目標は20個まで追加できます。	Puedes añadir hasta 20 metas.	목표는 최대 20개까지 추가할 수 있습니다.
+validation.goalName	每个目标名称需为 1 至 28 字。	每個目標名稱須為 1 至 28 字。	Goal names must be 1–28 characters.	目標名は1～28文字にしてください。	Cada nombre debe tener entre 1 y 28 caracteres.	목표 이름은 1~28자여야 합니다.
+validation.goalAmount	目标金额需大于 0 且不超过 100,000,000。	目標金額須大於 0 且不超過 100,000,000。	Each goal amount must be above 0 and at most 100,000,000.	目標金額は0より大きく100,000,000以下にしてください。	Cada importe debe ser mayor que 0 y no superar 100.000.000.	목표 금액은 0보다 크고 100,000,000 이하여야 합니다.
+validation.pattern	格式需包含一次 {amount}，最长 48 字。	格式須包含一次 {amount}，最長 48 字。	Include {amount} once; maximum 48 characters.	{amount}を1回含め、48文字以内にしてください。	Incluye {amount} una vez; máximo 48 caracteres.	{amount}를 한 번 포함하고 48자 이내로 입력하세요.
+validation.patternOnce	格式中只能使用一次 {amount}。	格式中只能使用一次 {amount}。	Use {amount} only once.	{amount}は1回だけ使用してください。	Usa {amount} solo una vez.	{amount}는 한 번만 사용할 수 있습니다.
+validation.patternTokens	仅支持 {amount}、{symbol}、{code}，不能换行。	僅支援 {amount}、{symbol}、{code}，不能換行。	Only {amount}, {symbol}, {code}; no line breaks.	{amount}、{symbol}、{code}のみ使用でき、改行はできません。	Solo {amount}, {symbol}, {code}; sin saltos de línea.	{amount}, {symbol}, {code}만 지원하며 줄 바꿈은 안 됩니다.
+validation.day	工作日须为周日 0 至周六 6。	工作日須為週日 0 至週六 6。	Workday values must be Sunday 0 through Saturday 6.	曜日の値は日曜0～土曜6です。	Los días van de domingo 0 a sábado 6.	요일 값은 일요일 0부터 토요일 6까지입니다.
+validation.date	日期请使用 yyyy-MM-dd。	日期請使用 yyyy-MM-dd。	Use dates in yyyy-MM-dd format.	日付はyyyy-MM-dd形式にしてください。	Usa fechas con formato yyyy-MM-dd.	날짜는 yyyy-MM-dd 형식으로 입력하세요.
+validation.time	时间请使用 24 小时制 HH:mm，例如 09:00。	時間請使用 24 小時制 HH:mm，例如 09:00。	Use 24-hour HH:mm, for example 09:00.	時刻は24時間制HH:mmで入力してください（例：09:00）。	Usa HH:mm de 24 horas, por ejemplo 09:00.	24시간제 HH:mm 형식으로 입력하세요. 예: 09:00.
+validation.salaryNumber	月薪请填写数字，例如 18000 或 18000.50。	月薪請填寫數字，例如 18000 或 18000.50。	Enter a salary such as 18000 or 18000.50.	月給は18000や18000.50のように入力してください。	Escribe el sueldo, por ejemplo 18000 o 18000.50.	월급을 18000 또는 18000.50과 같이 입력하세요.
+validation.goalNumber	目标 {0} 的金额请填写有效数字。	目標 {0} 的金額請填寫有效數字。	Enter a valid amount for goal {0}.	目標{0}の金額を正しく入力してください。	Escribe un importe válido para la meta {0}.	목표 {0}의 금액을 올바르게 입력하세요.
+copy.edit	编辑主页文字	編輯主頁文字	Edit home text	ホームの文字を編集	Editar textos de inicio	홈 문구 편집
+copy.help	双击主页文字可直接修改，按钮请右键。选择下方文案编辑；每种语言独立保存，最多 300 字，含数字的占位符需保留。	按兩下主頁文字可修改，按鈕請按右鍵。選擇下方文案編輯；各語言獨立儲存，最多 300 字，請保留數字預留位置。	Double-click home text, or right-click a button. Choose text below to edit. Saved per language; up to 300 characters. Keep numeric placeholders.	文字をダブルクリック、ボタンは右クリックで編集。言語ごとに保存されます。最大300文字。数値のプレースホルダーは残してください。	Doble clic en un texto o clic derecho en un botón. Elige el texto. Se guarda por idioma; máximo 300 caracteres. Conserva los marcadores numéricos.	홈 문구를 두 번 클릭하거나 버튼을 우클릭하세요. 아래에서 문구를 고르세요. 언어별 저장, 최대 300자. 숫자 자리표시자를 유지하세요.
+copy.original	默认文案：{0}	預設文案：{0}	Default: {0}	既定の文字：{0}	Texto original: {0}	기본 문구: {0}
+copy.reset	恢复此项	還原此項	Reset text	この項目を戻す	Restaurar texto	이 문구 복원
+copy.resetAll	恢复当前语言	還原目前語言	Reset language	この言語を戻す	Restaurar idioma	현재 언어 복원
+copy.invalid	文字无效或超过 300 字。	文字無效或超過 300 字。	Text is invalid or exceeds 300 characters.	文字が無効か、300文字を超えています。	Texto no válido o de más de 300 caracteres.	문구가 잘못되었거나 300자를 초과했습니다.
+copy.tokens	请完整保留默认文案中的数字占位符，例如 {0:F2}；不要添加其他花括号。	請完整保留預設文案中的數字預留位置，例如 {0:F2}；不要加入其他大括號。	Keep the numeric placeholders exactly, such as {0:F2}. Do not add other braces.	{0:F2} などの数値プレースホルダーをそのまま残し、他の波括弧は追加しないでください。	Conserva los marcadores numéricos exactos, como {0:F2}. No añadas otras llaves.	{0:F2} 같은 숫자 자리표시자를 그대로 유지하고 다른 중괄호는 추가하지 마세요.
+main.expenses	生活开支	生活開支	Expenses	生活費	Gastos	생활비
+expense.title	生活开支	生活開支	Living expenses	生活費	Gastos básicos	생활비
+expense.edit	编辑开支	編輯開支	Edit expenses	費用を編集	Editar gastos	생활비 편집
+expense.pending	本期待覆盖	本期待覆蓋	Left to cover	今期の未充当額	Pendiente de cubrir	이번 주기 미충당액
+expense.monthly	本期 · 估算	本期 · 估算	This cycle · estimate	今期 · 推定	Este ciclo · estimado	이번 주기 · 추정
+expense.covered	已覆盖	已覆蓋	Covered	充当済み	Cubierto	충당 완료
+expense.rewardBalance	可用于奖励	可用於獎勵	Available for rewards	ごほうびに使える額	Para recompensas	보상에 쓸 수 있는 금액
+expense.summary	还差 {0}，本期开支合计 {1}	還差 {0}，本期開支合計 {1}	{0} left of {1} this cycle	今期の合計 {1} のうち、あと {0}	Faltan {0} de {1} en este ciclo	이번 주기 합계 {1} 중 {0} 남음
+expense.hidden	开支金额与进度已隐藏	開支金額與進度已隱藏	Amounts and progress hidden	金額と進捗を非表示	Importes y progreso ocultos	금액과 진행률 숨김
+expense.emptyTotal	还没有开支项目，可以随时添加。	還沒有開支項目，可以隨時新增。	No expenses yet. Add one whenever you like.	費用は未登録です。いつでも追加できます。	Aún no hay gastos. Añádelos cuando quieras.	등록된 생활비가 없습니다. 언제든 추가하세요.
+expense.allCovered	本期开支已全部覆盖，继续为自己积累奖励。	本期開支已全部覆蓋，繼續為自己累積獎勵。	All expenses covered. Keep building your rewards.	今期の生活費はすべて充当済み。次はごほうびへ。	Gastos cubiertos. Sigue sumando para tus recompensas.	이번 주기 생활비 충당 완료! 이제 보상을 쌓아 보세요.
+expense.remainingValue	还差 {0}	還差 {0}	{0} left	あと {0}	Faltan {0}	{0} 남음
+expense.coveredValue	已覆盖 {0} / {1}	已覆蓋 {0} / {1}	Covered {0} / {1}	充当済み {0} / {1}	Cubierto {0} / {1}	충당 {0} / {1}
+expense.completed	已覆盖 ✓	已覆蓋 ✓	Covered ✓	充当済み ✓	Cubierto ✓	충당 완료 ✓
+expense.explanation	收入按清单顺序先覆盖开支，余下的再进入奖励目标。红条表示剩余未覆盖比例，会随收入减少。仅为估算分配，不代表已付款；每个工资周期重新累计。	收入按清單順序先覆蓋開支，餘下的再進入獎勵目標。紅條表示剩餘未覆蓋比例，會隨收入減少。僅為估算分配，不代表已付款；每個薪資週期重新累計。	Income covers expenses in list order, then funds reward goals. Red bars shrink as the uncovered share falls. These are estimated allocations, not payments; each pay cycle starts over.	収入はリスト順に生活費へ充当し、残額をごほうびへ回します。赤いバーは未充当の割合です。実際の支払いではなく推定配分で、給与の周期ごとにリセットします。	El ingreso cubre gastos por orden y después las metas. Las barras rojas bajan al reducirse lo pendiente. Son asignaciones estimadas, no pagos; se reinician en cada ciclo salarial.	수입은 목록 순서대로 생활비에 먼저 배분하고 나머지를 보상에 사용합니다. 빨간 막대는 미충당 비율입니다. 실제 결제가 아닌 추정 배분이며 급여 주기마다 초기화됩니다.
+expense.rent	租金	租金	Rent	家賃	Alquiler	월세
+expense.living	生活费	生活費	Living costs	日常生活費	Vida diaria	생활비
+expense.essential	必要开支	必要開支	Essentials	必要経費	Necesidades	필수 지출
+expense.enable	开启生活开支页面（可选）	開啟生活開支頁面（選用）	Enable living expenses (optional)	生活費ページを有効にする（任意）	Activar gastos básicos (opcional)	생활비 페이지 켜기 (선택)
+expense.listTitle	本期开支清单	本期開支清單	Expenses this cycle	今期の費用リスト	Gastos del ciclo	이번 주기 생활비 목록
+expense.add	＋ 新增开支	＋ 新增開支	＋ Add expense	＋ 費用を追加	＋ Añadir gasto	＋ 생활비 추가
+expense.editorHelp	每期重复使用这份清单，最多 20 项。可改名、改金额或调整优先顺序；收入先覆盖前面的开支。关闭功能会保留已保存清单。	每期重複使用這份清單，最多 20 項。可改名、改金額或調整優先順序；收入先覆蓋前面的開支。關閉功能會保留已儲存清單。	Reuse this list each cycle, up to 20 items. Edit names, amounts and priority; income covers earlier items first. Turning this off keeps your saved list.	最大20項目を周期ごとに繰り返します。名前・金額・優先順を変更でき、上から充当します。無効にしても保存済みリストは残ります。	La lista se repite cada ciclo, hasta 20 gastos. Edita nombres, importes y prioridad; se cubren por orden. Desactivar conserva la lista guardada.	매 주기 최대 20개 항목을 반복 사용합니다. 이름, 금액, 순서를 바꿀 수 있으며 위 항목부터 충당합니다. 꺼도 저장한 목록은 유지됩니다.
+expense.new	新开支	新開支	New expense	新しい費用	Nuevo gasto	새 생활비
+expense.name	开支名称	開支名稱	Expense name	費用名	Nombre del gasto	지출 이름
+expense.number	开支 {0}	開支 {0}	Expense {0}	費用 {0}	Gasto {0}	생활비 {0}
+expense.emptyEditor	暂无开支，点击“新增开支”添加。	暫無開支，點選「新增開支」新增。	No expenses. Choose “Add expense” to begin.	費用はありません。「費用を追加」で登録できます。	Sin gastos. Pulsa «Añadir gasto» para empezar.	생활비가 없습니다. ‘생활비 추가’를 눌러 시작하세요.
+validation.expenseCount	最多添加 20 个开支。	最多新增 20 個開支。	Add up to 20 expenses.	費用は20個までです。	Se permiten hasta 20 gastos.	생활비는 최대 20개입니다.
+validation.expenseName	开支名称不能为空，最多 28 个字符。	開支名稱不能為空，最多 28 個字元。	Expense names require 1–28 characters.	費用名は1～28文字です。	El nombre debe tener de 1 a 28 caracteres.	생활비 이름은 1~28자여야 합니다.
+validation.expenseAmount	开支金额必须大于 0 且不超过 100,000,000。	開支金額必須大於 0 且不超過 100,000,000。	Expense amounts must be above 0 and at most 100,000,000.	費用は0より大きく100,000,000以下にしてください。	Cada gasto debe ser mayor que 0 y como máximo 100.000.000.	생활비 금액은 0 초과, 100,000,000 이하여야 합니다.
+validation.expenseNumber	开支 {0} 的金额请填写数字，小数使用英文句点。	開支 {0} 的金額請填寫數字，小數使用英文句點。	Enter a number for expense {0}, using a decimal point.	費用 {0} は数値で入力し、小数点はピリオドを使ってください。	Introduce un número para el gasto {0}, con punto decimal.	생활비 {0}에 숫자를 입력하세요. 소수점은 마침표를 사용하세요.
+salary.settlement	工资结算日（每月几号）	薪資結算日（每月幾號）	Pay-cycle reset day (day of month)	給与周期の開始日（毎月）	Día de inicio del ciclo salarial	급여 주기 시작일 (매월)
+salary.cycleHelp	结算日零点重置本期收入、开支和目标；不足该日期的月份按月末。例：15 日至下月 14 日。	結算日零點重置本期收入、開支和目標；不足該日期的月份按月底。例：15 日至下月 14 日。	Income, expenses and goals reset at midnight on this day. Short months use their last day. Example: the 15th through the next month's 14th.	指定日の午前0時に収入・生活費・目標をリセットします。日付がない月は月末を使います。例：15日～翌月14日。	Ingresos, gastos y metas se reinician a medianoche. Si el mes es más corto se usa el último día. Ejemplo: del 15 al 14 siguiente.	이 날짜 자정에 수입, 생활비, 목표를 초기화합니다. 해당 날짜가 없는 달은 말일을 사용합니다. 예: 15일~다음 달 14일.
+validation.settlement	工资结算日请选择 1 至 31。	薪資結算日請選擇 1 至 31。	Choose a reset day from 1 to 31.	開始日は1～31を選んでください。	Elige un día del 1 al 31.	주기 시작일은 1~31일로 선택하세요.
+income.title	确认本期已累计收入	確認本期已累計收入	Confirm earnings so far	今期の累計収入を確認	Confirma lo acumulado	이번 주기 누적 수입 확인
+income.period	本期：{0} 至 {1}	本期：{0} 至 {1}	This cycle: {0} to {1}	今期：{0} ～ {1}	Este ciclo: {0} a {1}	이번 주기: {0} ~ {1}
+income.estimate	此前已累计约 {0}	此前已累計約 {0}	Estimated earnings so far: {0}	これまでの推定収入：{0}	Acumulado estimado: {0}	지금까지 추정 수입: {0}
+income.help	请确认或修改下面的金额。首次估算将此前排班视为满勤；这不是到账记录。保存后从确认金额继续累计，也可以改为 0 从现在开始。下个周期自动重置。	請確認或修改下方金額。首次估算將此前排班視為全勤；這不是入帳紀錄。儲存後從確認金額繼續累計，也可改為 0 從現在開始。下個週期自動重置。	Confirm or edit the amount below. The first estimate assumes full attendance for past shifts; it is not a payment record. Continue from your confirmed amount, or choose 0 to start now. The next cycle resets automatically.	金額を確認・修正してください。初回の推定では過去の勤務を皆勤とみなします。入金記録ではありません。確定額から累計し、0なら今から開始します。次の周期にリセットします。	Confirma o corrige el importe. La primera estimación supone asistencia completa; no es un registro de cobro. Continúa desde lo confirmado o elige 0 para empezar ahora. Se reinicia en el próximo ciclo.	금액을 확인하거나 수정하세요. 최초 추정은 지난 근무를 만근으로 계산하며 입금 기록이 아닙니다. 확인한 금액부터 누적하거나 0으로 지금 시작할 수 있습니다. 다음 주기에 자동 초기화됩니다.
+income.amount	确认金额（{0}，小数用英文句点）	確認金額（{0}，小數用英文句點）	Confirmed amount ({0}, decimal point)	確認額（{0}、小数点はピリオド）	Importe confirmado ({0}, punto decimal)	확인 금액 ({0}, 소수점은 마침표)
+income.zero	从 0 开始	從 0 開始	Start from 0	0から開始	Empezar desde 0	0부터 시작
+income.confirm	确认并保存	確認並儲存	Confirm & save	確認して保存	Confirmar y guardar	확인 및 저장
+income.adjust	校正本期已累计收入…	校正本期已累計收入…	Adjust earnings so far…	今期の累計額を修正…	Corregir lo acumulado…	현재 누적 수입 수정…
+validation.opening	确认金额须为 0 至 100,000,000，且确认时间必须有效。	確認金額須為 0 至 100,000,000，且確認時間必須有效。	Use an amount from 0 to 100,000,000 and a valid confirmation time.	確認額は0～100,000,000で、有効な確認日時が必要です。	El importe debe ser de 0 a 100.000.000 y la fecha de confirmación válida.	확인 금액은 0~100,000,000이며 확인 시간이 유효해야 합니다.
+expense.moveUp	目标上移	目標上移	Move goal up	目標を上へ	Subir meta	목표 위로
+expense.moveDown	目标下移	目標下移	Move goal down	目標を下へ	Bajar meta	목표 아래로
+expense.remove	移除	移除	Remove	削除	Quitar	삭제
+expense.removeTip	移除此开支	移除此開支	Remove this expense	この費用を削除	Eliminar este gasto	이 생활비 삭제
+expense.amount	目标金额	目標金額	Goal amount	目標金額	Importe de la meta	목표 금액
+expense.amountShort	金额	金額	Amount	金額	Importe	금액
+income.adjustHint	保存设置时将确认本期已累计金额。	儲存設定時將確認本期已累計金額。	Saving will ask you to confirm earnings so far.	設定の保存時に今期の累計額を確認します。	Al guardar se confirmará lo acumulado.	설정을 저장할 때 현재 누적 금액을 확인합니다.
+main.stock	美股监控与持仓 · BETA	美股監控與持倉 · BETA	US watchlist & holdings · BETA	米国株の監視・保有 · BETA	Seguimiento EE. UU. · BETA	미국 종목 모니터 · BETA
+stock.open	打开持仓	開啟持倉	Open holdings	保有株を開く	Ver cartera	보유 주식 열기
+stock.title	股票监控与持仓 · BETA	股票監控與持倉 · BETA	Stock watchlist & holdings · BETA	株価監視と保有株 · BETA	Seguimiento y cartera · BETA	종목 모니터 및 보유 주식 · BETA
+stock.reviewBanner	本地测试版 · 待审核 · 仅支持美股/美元，不连接券商账户	本機測試版 · 待審核 · 僅支援美股/美元，不連接券商帳戶	Local beta · review pending · US/USD only; no brokerage connection	ローカルベータ・審査待ち・米国株/USDのみ、証券口座には接続しません	Beta local · pendiente de revisión · Solo EE. UU./USD; sin conexión al bróker	로컬 베타 · 검토 대기 · 미국 주식/USD만, 증권 계좌 연결 없음
+stock.importTitle	确认固定持仓快照	確認固定持倉快照	Confirm a fixed holdings snapshot	固定の保有株スナップショットを確認	Confirma una cartera fija	고정 보유 주식 스냅샷 확인
+stock.importHelp	四种方式：文件、复制页面、截图 OCR、浏览器扩展。先预览并核对列，再确认；不会自动读取券商。	四種方式：檔案、複製頁面、截圖 OCR、瀏覽器擴充。先預覽並核對欄位，再確認；不自動讀取券商。	Use files, pasted tables, screenshot OCR or the extension. Preview and verify columns before confirming; broker pages are never read automatically.	ファイル・表の貼り付け・画像OCR・拡張機能に対応。列を確認してから確定します。証券ページの自動取得はしません。	Usa archivos, tablas pegadas, OCR o la extensión. Revisa las columnas antes de confirmar; no se leen páginas automáticamente.	파일, 표 붙여넣기, OCR, 확장을 지원합니다. 열을 확인한 뒤 저장하세요. 증권 페이지를 자동으로 읽지 않습니다.
+stock.file	① 文件导入	① 檔案匯入	① Import file	① ファイル	① Archivo	① 파일 가져오기
+stock.paste	② 粘贴持仓页	② 貼上持倉頁	② Paste holdings	② 保有株を貼付	② Pegar cartera	② 보유 주식 붙여넣기
+stock.image	③ 截图文件	③ 截圖檔案	③ Screenshot file	③ 画像ファイル	③ Captura	③ 스크린샷 파일
+stock.imagePaste	粘贴截图	貼上截圖	Paste image	画像を貼付	Pegar imagen	이미지 붙여넣기
+stock.extension	④ 浏览器扩展	④ 瀏覽器擴充	④ Browser extension	④ ブラウザー拡張	④ Extensión	④ 브라우저 확장
+stock.extensionHelp	扩展在 browser-extension 文件夹。手动加载后，在持仓页点击扩展、选择表格、复制，再点这里的“粘贴持仓页”。仅支持已加载表格，不读取密码、Cookie 或订单。	擴充在 browser-extension 資料夾。手動載入後，在持倉頁點選擴充、選擇表格、複製，再貼至此處。僅支援已載入表格，不讀取密碼、Cookie 或訂單。	Load the browser-extension folder manually. On the holdings page, click it, select a table, copy, then paste here. Only loaded tables are supported; no passwords, cookies or orders are read.	browser-extensionフォルダーを手動で読み込みます。保有株ページで拡張機能を押し、表を選んでコピーし、ここに貼り付けます。パスワード・Cookie・注文は読みません。	Carga manualmente browser-extension. En la página de cartera, abre la extensión, elige una tabla, copia y pega aquí. Solo tablas cargadas; no lee claves, cookies ni órdenes.	browser-extension 폴더를 수동으로 로드하세요. 보유 주식 페이지에서 확장을 누르고 표를 선택해 복사한 뒤 여기에 붙여넣으세요. 암호, 쿠키, 주문은 읽지 않습니다.
+stock.hasHeader	包含表头	包含標題列	Has headers	見出しあり	Con cabecera	머리글 있음
+stock.headerRow	表头行号	標題列行號	Header row	見出し行	Fila de cabecera	머리글 행
+stock.parse	解析并预览	解析並預覽	Parse & preview	解析・プレビュー	Analizar y ver	분석 및 미리보기
+stock.symbol	股票代码	股票代碼	Symbol	銘柄コード	Símbolo	종목 코드
+stock.quantity	股数	股數	Shares	株数	Acciones	주식 수
+stock.cost	每股成本（可选）	每股成本（選填）	Cost/share (optional)	取得単価（任意）	Coste/acción (opcional)	주당 원가 (선택)
+stock.currency	币种	幣別	Currency	通貨	Moneda	통화
+stock.none	不指定	不指定	None	未指定	Ninguna	지정 안 함
+stock.assumeUsd	没有币种列时，我确认这些都是美元美股	沒有幣別欄時，我確認這些都是美元美股	If no currency column: I confirm all rows are US stocks in USD	通貨列がない場合、すべて米国株・USDであると確認します	Sin columna de moneda: confirmo que todo es EE. UU. en USD	통화 열이 없으면 모두 USD 미국 주식임을 확인합니다
+stock.onlineConsent	确认后开启 Yahoo 实验行情；只发送股票代码，每 5 分钟刷新	確認後開啟 Yahoo 實驗行情；僅傳送代碼，每 5 分鐘更新	Enable experimental Yahoo quotes after confirmation; send symbols only, every 5 minutes	確定後にYahoo実験行情を有効化。銘柄のみ送信、5分ごと更新	Activar cotizaciones experimentales Yahoo; solo símbolos, cada 5 min	확인 후 Yahoo 실험 시세 켜기: 종목 코드만 전송, 5분마다 갱신
+stock.snapshotRule	固定股数估算：不自动同步买卖、现金或拆股，不计佣金、税费和汇率。新快照会替换旧快照；收益不计入工资、开支或目标。	固定股數估算：不自動同步買賣、現金或拆股，不計佣金、稅費與匯率。新快照取代舊快照；收益不計入薪資、開支或目標。	Fixed-share estimate: trades, cash and splits are not synced; fees, tax and FX are excluded. Replaces the prior snapshot. PnL stays separate from salary, bills and goals.	固定株数の推定です。取引・現金・株式分割は同期せず、手数料・税・為替は除外します。旧スナップショットを置換し、給与や目標には加算しません。	Estimación con acciones fijas: sin sincronizar operaciones, efectivo o desdoblamientos; sin comisiones, impuestos ni divisas. Sustituye la cartera anterior; no suma al sueldo ni a las metas.	고정 주식 수 추정: 거래·현금·분할 동기화, 수수료·세금·환율 계산은 제외합니다. 기존 스냅샷을 대체하며 급여·생활비·목표에 합산하지 않습니다.
+stock.confirmSnapshot	确认并替换持仓	確認並取代持倉	Confirm & replace holdings	確認して保有株を置換	Confirmar y sustituir	확인 및 보유 주식 교체
+stock.previewCount	已识别 {0} 项，将替换此前 {1} 项持仓；保留其他自选。请核对股数与成本。	已識別 {0} 項，將取代先前 {1} 項持倉；保留其他自選。請核對股數與成本。	{0} positions replace {1} holdings; other watchlist entries remain. Verify shares and cost.	{0}件で以前の保有{1}件を置換し、他の監視銘柄は保持します。株数と単価を確認してください。	{0} posiciones sustituyen a {1}; se conserva el resto de la lista. Revisa acciones y coste.	{0}개 항목이 기존 보유 {1}개를 대체하며 다른 관찰 종목은 유지됩니다. 수량과 원가를 확인하세요.
+stock.previewFirst	请先解析并核对预览。	請先解析並核對預覽。	Parse and review the preview first.	先に解析して確認してください。	Analiza y revisa primero.	먼저 분석하고 미리보기를 확인하세요.
+stock.import	导入 / 编辑持仓	匯入 / 編輯持倉	Import / edit holdings	保有株の取込・編集	Importar / editar	보유 주식 가져오기/편집
+stock.refresh	刷新行情	更新行情	Refresh quotes	行情を更新	Actualizar precios	시세 새로고침
+stock.stop	停止联网	停止連線	Stop online access	通信を停止	Desconectar	온라인 연결 중지
+stock.dayPnl	最近交易日估算盈亏 · USD	最近交易日估算損益 · USD	Latest trading-day estimated PnL · USD	直近取引日の推定損益 · USD	Resultado estimado de la última sesión · USD	최근 거래일 추정 손익 · USD
+stock.dayPnlShort	日盈亏估算	日損益估算	Est. day PnL	日次推定損益	Resultado diario	일 추정 손익
+stock.price	常规时段价	一般時段價	Regular price	通常時間価格	Precio regular	정규장 가격
+stock.previous	前交易日收盘	前交易日收盤	Prior close	前取引日終値	Cierre previo	이전 거래일 종가
+stock.quoteTime	行情时间（纽约）	行情時間（紐約）	Quote time (NY)	価格時刻（NY）	Hora (NY)	시세 시간 (뉴욕)
+stock.status	状态	狀態	Status	状態	Estado	상태
+stock.coverage	有效行情 {0} / {1} 项	有效行情 {0} / {1} 項	Valid quotes: {0} / {1}	有効な価格：{0} / {1}	Precios válidos: {0} / {1}	유효 시세 {0} / {1}
+stock.fixedEstimate	固定持仓估算，独立于工资	固定持倉估算，獨立於薪資	Fixed holdings estimate; separate from salary	固定保有株の推定・給与とは別	Estimación fija; separada del sueldo	고정 보유량 추정, 급여와 별도
+stock.setupHint	确认一份美股持仓，开启独立的收益动力源。	確認一份美股持倉，開啟獨立的收益動力源。	Confirm US holdings to add a separate motivation source.	米国株の保有数を確認して、応援表示を追加しましょう。	Confirma tu cartera de EE. UU. como motivación adicional.	미국 주식 보유량을 확인해 별도 동기 부여를 추가하세요.
+stock.footer	Yahoo 非官方实验接口，可能延迟或不可用；不含盘前盘后。日期按纽约交易日显示。固定持仓估算仅供个人查看，行情不公开转发。	Yahoo 非官方實驗介面，可能延遲或無法使用；不含盤前盤後。日期按紐約交易日。固定持倉估算僅供個人查看，不公開轉發行情。	Experimental, unofficial Yahoo endpoint; quotes may be delayed or unavailable. Regular session only, with New York trading dates. Personal local viewing; no public redistribution.	非公式のYahoo実験接続で、遅延や取得不可の場合があります。通常時間のみ、NY取引日基準です。個人のローカル閲覧用で、行情を再配布しません。	Interfaz Yahoo experimental y no oficial; puede retrasarse o fallar. Solo sesión regular, fechas de Nueva York. Uso personal local; sin redistribuir precios.	비공식 Yahoo 실험 연결로 지연되거나 실패할 수 있습니다. 정규장, 뉴욕 거래일 기준입니다. 개인 로컬 확인용이며 시세를 재배포하지 않습니다.
+stock.hidden	持仓金额、股数与收益已隐藏	持倉金額、股數與損益已隱藏	Holdings, shares and PnL hidden	金額・株数・損益を非表示	Importes, acciones y resultado ocultos	금액, 주식 수, 손익 숨김
+stock.simulated	演示行情，非真实价格	示範行情，非真實價格	SIMULATED prices	デモ価格・実価格ではありません	Precios SIMULADOS	모의 시세, 실제 가격 아님
+stock.upMessage	投资多了一点助力，工作也在继续积累。	投資多了一點助力，工作也在繼續累積。	A little market lift alongside your work.	投資の追い風と、積み重ねる仕事。	Un pequeño impulso del mercado junto a tu trabajo.	투자의 작은 도움이 더해지고, 일의 가치도 쌓입니다.
+stock.downMessage	今天有波动，你的努力不会因此归零。	今天有波動，你的努力不會因此歸零。	Markets fluctuate. Your effort still counts.	相場が動いても、あなたの努力は残ります。	El mercado fluctúa. Tu esfuerzo sigue contando.	시장은 변동해도 당신의 노력은 남습니다.
+stock.flatMessage	平稳的一天，继续积累自己的价值。	平穩的一天，繼續累積自己的價值。	A steady day. Keep building your own value.	穏やかな一日。自分の価値を積み重ねましょう。	Un día estable. Sigue creando tu valor.	차분한 하루, 나의 가치를 계속 쌓으세요.
+stock.offline	未开启行情联网。持仓只在本机保存。	未開啟行情連線。持倉僅儲存於本機。	Quote access is off. Holdings stay local.	行情通信は無効です。保有情報はPC内に保存します。	Cotizaciones desactivadas. La cartera queda local.	시세 연결이 꺼져 있습니다. 보유 정보는 로컬에 저장됩니다.
+stock.ready	持仓已确认，等待刷新行情。	持倉已確認，等待更新行情。	Holdings confirmed; ready for quotes.	保有数を確認済み。更新待ちです。	Cartera confirmada; lista para actualizar.	보유량 확인 완료, 시세 갱신 대기 중입니다.
+stock.fetching	正在获取行情…	正在取得行情…	Fetching quotes…	行情を取得中…	Obteniendo precios…	시세 가져오는 중…
+stock.updated	已更新；每 5 分钟自动刷新，行情可能延迟。	已更新；每 5 分鐘自動更新，行情可能延遲。	Updated; refreshes every 5 minutes. Quotes may be delayed.	更新済み。5分ごとに更新し、価格が遅延する場合があります。	Actualizado; cada 5 min. Puede haber retraso.	갱신 완료, 5분마다 자동 갱신하며 지연될 수 있습니다.
+stock.partial	部分行情无效、过期或日期不同，请查看各项状态。	部分行情無效、過期或日期不同，請查看各項狀態。	Some quotes are missing, stale or mixed-date. Check each row.	価格の欠落・期限切れ・日付不一致があります。各行を確認してください。	Hay precios ausentes, antiguos o de fechas distintas. Revisa cada fila.	누락, 오래된 값 또는 날짜 불일치가 있습니다. 각 행을 확인하세요.
+stock.stale	旧数据 / 待更新	舊資料 / 待更新	Stale / refresh needed	古いデータ・更新待ち	Antiguo / actualizar	오래된 데이터 / 갱신 필요
+stock.unavailable	无有效行情	無有效行情	Unavailable	取得不可	No disponible	유효 시세 없음
+stock.quoteEstimated	实验行情 · 可能延迟	實驗行情 · 可能延遲	Experimental / may lag	実験行情・遅延の可能性	Experimental / con retraso	실험 시세 / 지연 가능
+stock.cooldown	请等待至少 1 分钟再刷新。	請等待至少 1 分鐘再更新。	Wait at least 1 minute between refreshes.	更新は1分以上空けてください。	Espera al menos 1 min para actualizar.	새로고침 사이에 최소 1분 기다리세요.
+stock.busy	正在刷新，完成后再编辑。	正在更新，完成後再編輯。	Wait for the refresh before editing.	更新が完了してから編集してください。	Espera a que termine la actualización.	새로고침이 끝난 뒤 편집하세요.
+stock.limit	最多支持 50 个美股持仓。	最多支援 50 個美股持倉。	Up to 50 US stock positions.	米国株は最大50銘柄です。	Hasta 50 posiciones de EE. UU.	미국 주식 보유 종목은 최대 50개입니다.
+stock.invalidPosition	仅限美股代码、非零股数、USD；成本可留空且不能为负。	僅限美股代碼、非零股數、USD；成本可留空且不能為負。	Use US symbols, nonzero shares and USD. Cost is optional and nonnegative.	米国株コード・0以外の株数・USDを使ってください。取得単価は任意で0以上です。	Usa símbolos de EE. UU., acciones no nulas y USD. Coste opcional, no negativo.	미국 종목 코드, 0이 아닌 수량, USD만 지원합니다. 원가는 비워둘 수 있으며 음수는 안 됩니다.
+stock.duplicate	代码 {0} 重复，请先合并股数并核对成本。	代碼 {0} 重複，請先合併股數並核對成本。	Duplicate symbol {0}. Consolidate shares and verify cost first.	コード{0}が重複しています。株数と単価を確認・統合してください。	Símbolo {0} duplicado. Agrupa las acciones y revisa el coste.	종목 {0} 중복입니다. 수량을 합치고 원가를 확인하세요.
+stock.badFormat	格式无法识别，请使用表格、CSV、XLSX 或扩展导出。	格式無法識別，請使用表格、CSV、XLSX 或擴充匯出。	Unrecognized format. Use tables, CSV, XLSX or extension output.	形式を認識できません。表・CSV・XLSX・拡張出力を使ってください。	Formato desconocido. Usa tabla, CSV, XLSX o la extensión.	형식을 인식할 수 없습니다. 표, CSV, XLSX 또는 확장 출력을 사용하세요.
+stock.badRows	第 {0} 行未通过核对。请在上方修正或明确移除不适用行，再预览。	第 {0} 行未通過核對。請在上方修正或明確移除不適用列，再預覽。	Review failed for rows {0}. Correct or explicitly remove them above, then preview again.	行{0}を確認できません。上で修正または不要な行を削除し、再確認してください。	Revisa las filas {0}. Corrige o elimina las que no correspondan y vuelve a analizar.	{0}행 확인 실패입니다. 위에서 수정하거나 불필요한 행을 직접 삭제한 뒤 다시 확인하세요.
+stock.mappingRequired	请选择股票代码和股数列，并核对表头行号。	請選擇股票代碼和股數欄，並核對標題列。	Select symbol and shares columns and verify the header row.	コード・株数の列と見出し行を選んでください。	Selecciona símbolo y acciones y verifica la cabecera.	종목 코드와 수량 열, 머리글 행을 확인하세요.
+stock.noPositions	没有可确认的持仓。	沒有可確認的持倉。	No holdings to confirm.	確認できる保有株がありません。	Sin posiciones para confirmar.	확인할 보유 주식이 없습니다.
+stock.noText	剪贴板没有可粘贴的文字。	剪貼簿沒有可貼上的文字。	No text on the clipboard.	クリップボードに文字がありません。	No hay texto en el portapapeles.	클립보드에 텍스트가 없습니다.
+stock.noImage	剪贴板没有截图。	剪貼簿沒有截圖。	No image on the clipboard.	クリップボードに画像がありません。	No hay imagen en el portapapeles.	클립보드에 이미지가 없습니다.
+stock.fileLimit	文件或表格过大。表格最多 1000 行，持仓最多 50 项。	檔案或表格過大。最多 1000 列，持倉最多 50 項。	File or table too large: up to 1000 rows and 50 positions.	ファイルまたは表が大きすぎます。1000行・50銘柄までです。	Archivo o tabla demasiado grande: 1000 filas y 50 posiciones.	파일 또는 표가 너무 큽니다. 최대 1000행, 50개 종목입니다.
+stock.usdRequired	无币种列时，请先勾选确认所有持仓为美元美股。	無幣別欄時，請先勾選確認全為美元美股。	Without a currency column, confirm all holdings are US/USD.	通貨列がなければ、米国株/USDの確認にチェックしてください。	Sin columna de moneda, confirma que todo es EE. UU./USD.	통화 열이 없으면 모두 USD 미국 주식인지 체크해 확인하세요.
+stock.formula	不读取公式单元格，请先粘贴为值再导入。	不讀取公式儲存格，請先貼為值再匯入。	Formula cells are not imported. Paste values first.	数式セルは読めません。値として貼り付けてから取り込んでください。	No se importan fórmulas. Pega valores primero.	수식 셀은 가져오지 않습니다. 값으로 붙여넣은 뒤 가져오세요.
+stock.firstSheet	XLSX 当前只读取第一个工作表。	XLSX 目前僅讀取第一個工作表。	XLSX: only the first worksheet is read.	XLSXは最初のシートのみ読み込みます。	XLSX: solo se lee la primera hoja.	XLSX는 첫 시트만 읽습니다.
+stock.importFailed	读取失败，请检查文件或改用粘贴文字。	讀取失敗，請檢查檔案或改用貼上文字。	Could not read it. Check the file or paste text.	読み込めません。ファイルを確認するか文字を貼り付けてください。	No se pudo leer. Revisa el archivo o pega texto.	읽지 못했습니다. 파일을 확인하거나 텍스트를 붙여넣으세요.
+stock.saveFailed	保存未成功，原持仓保持不变。	儲存未成功，原持倉保持不變。	Save failed; prior holdings remain unchanged.	保存できませんでした。元の保有株は変わりません。	No se guardó; la cartera anterior sigue igual.	저장 실패, 기존 보유 주식은 유지됩니다.
+stock.loadFailed	持仓文件无效，已保留原文件；请重新导入。	持倉檔案無效，已保留原檔；請重新匯入。	Invalid holdings file preserved; import again.	無効な保有ファイルを保持しました。再取り込みしてください。	Archivo inválido conservado; importa otra vez.	잘못된 보유 파일은 보존했습니다. 다시 가져오세요.
+stock.quoteInvalid	行情无有效前交易日收盘价，暂不计算盈亏。	行情缺少有效前交易日收盤價，暫不計算損益。	No valid prior-session close; PnL is unavailable.	有効な前取引日終値がなく、損益を計算できません。	Sin cierre previo válido; resultado no disponible.	유효한 이전 거래일 종가가 없어 손익을 계산하지 않습니다.
+stock.usOnly	此标的不属于当前支持的美元美股或 ETF。	此標的不屬於目前支援的美元美股或 ETF。	This instrument is outside the supported US/USD stocks and ETFs.	対応する米国株・USD建てETFではありません。	Instrumento fuera de acciones y ETF de EE. UU./USD admitidos.	지원하는 USD 미국 주식/ETF 범위 밖의 종목입니다.
+stock.ocrWorking	正在本机识别截图，不上传图片…	正在本機辨識截圖，不上傳圖片…	Recognizing locally; no image upload…	PC内で画像を認識中。アップロードしません…	OCR local; sin subir la imagen…	로컬에서 이미지 인식 중, 업로드하지 않습니다…
+stock.ocrUnavailable	本机 OCR 不可用或图片过大。可裁剪截图、使用系统文字识别后粘贴；程序不会安装组件或绕过策略。	本機 OCR 無法使用或圖片過大。可裁剪圖片或用系統辨識後貼上；不安裝元件或略過政策。	Local OCR unavailable or image too large. Crop it or paste text from system OCR. No components are installed or policies bypassed.	OCRを利用できないか画像が大きすぎます。切り抜くかOSで認識した文字を貼り付けてください。部品の導入やポリシー回避はしません。	OCR no disponible o imagen muy grande. Recorta o pega texto del OCR del sistema. No instala componentes ni omite políticas.	OCR을 사용할 수 없거나 이미지가 큽니다. 이미지를 자르거나 시스템 OCR의 텍스트를 붙여넣으세요. 구성요소 설치나 정책 우회는 하지 않습니다.
+stock.ocrReview	OCR 可能错认代码、数字和列。请逐项核对；仅支持可读表格截图，无法保证所有券商布局。	OCR 可能誤認代碼、數字與欄位。請逐項核對；僅支援可讀表格截圖，不保證所有券商版面。	OCR may misread symbols, numbers and columns. Verify every position; only readable table screenshots are supported, not every broker layout.	OCRはコード・数値・列を誤認する場合があります。各項目を確認してください。読みやすい表の画像のみ対応し、全証券会社の配置は保証しません。	OCR puede confundir símbolos, cifras y columnas. Revisa todo; solo tablas legibles, no todos los diseños.	OCR은 코드, 숫자, 열을 잘못 인식할 수 있습니다. 각 항목을 확인하세요. 읽기 쉬운 표만 지원하며 모든 증권사 화면을 보장하지 않습니다.
+main.stockOpen	打开股票	開啟股票	Open stocks	株価を開く	Ver valores	종목 열기
+main.stockHidden	持仓金额、股数与收益已隐藏	持倉金額、股數與損益已隱藏	Holdings, shares and PnL hidden	金額・株数・損益を非表示	Importes, acciones y resultado ocultos	금액, 주식 수, 손익 숨김
+main.stockEmpty	按代码添加自选，或导入持仓，开启股票动力源。	依代碼新增自選，或匯入持倉，開啟股票動力源。	Add symbols to watch, or import holdings for stock motivation.	コードで監視を追加するか、保有株を取り込みましょう。	Añade símbolos o importa tu cartera como motivación.	코드를 추가해 관찰하거나 보유 주식을 가져오세요.
+main.stockPartial	行情不完整、过期或交易日不一致，暂不显示总盈亏。	行情不完整、過期或交易日不同，暫不顯示總損益。	Incomplete, stale or mixed-date quotes; total PnL unavailable.	価格の欠落・期限切れ・日付不一致のため合計損益は表示できません。	Precios incompletos, antiguos o de fechas distintas; sin total.	시세 누락, 오래된 값 또는 날짜 불일치로 합계 손익을 표시하지 않습니다.
+main.stockDetail	{0} ET · 固定持仓估算，独立于工资	{0} ET · 固定持倉估算，獨立於薪資	{0} ET · fixed holdings estimate; separate from salary	{0} ET · 固定保有株の推定・給与とは別	{0} ET · estimación fija; separada del sueldo	{0} ET · 고정 보유량 추정, 급여와 별도
+stock.snapshotAt	持仓确认于 {0}；后续买卖请重新导入	持倉確認於 {0}；後續買賣請重新匯入	Holdings confirmed {0}; import again after trades	保有株の確認：{0}。取引後は再取り込みしてください	Cartera confirmada {0}; vuelve a importar tras operar	보유량 확인 {0}, 거래 후 다시 가져오세요
+stock.clear	清空当前快照	清空目前快照	Clear snapshot	スナップショットを空に	Vaciar cartera	현재 스냅샷 비우기
+stock.clearConfirm	清空当前持仓并停止联网？本地 .bak 备份仍保留。	清空目前持倉並停止連線？本機 .bak 備份仍保留。	Clear current holdings and stop quotes? The local .bak backup is retained.	保有株を空にして通信を停止しますか？ローカルの.bakは残ります。	¿Vaciar la cartera y desconectar? Se conserva la copia local .bak.	보유량을 비우고 연결을 중지할까요? 로컬 .bak 백업은 유지됩니다.
+watch.addTitle	按股票代码添加 / 编辑	依股票代碼新增 / 編輯	Add / edit by symbol	コードで追加・編集	Añadir / editar por símbolo	종목 코드로 추가 / 편집
+watch.help	只填代码即可加入自选监控；取消“仅监控”后可填股数，计算持仓估算盈亏。	僅填代碼即可加入自選監控；取消「僅監控」後可填股數，計算持倉估算損益。	Enter symbols to watch prices. Turn off “Watch only” to enter shares and estimate holding PnL.	コードだけで価格を監視できます。「監視のみ」を解除すると株数と推定損益を設定できます。	Introduce símbolos para seguir precios. Desmarca «Solo seguimiento» para añadir acciones y estimar el resultado.	코드만 입력해 시세를 관찰하세요. ‘관찰만’을 끄면 수량과 추정 손익을 설정할 수 있습니다.
+watch.codes	股票代码（自选可批量：AAPL, MSFT, NVDA）	股票代碼（自選可批次：AAPL, MSFT, NVDA）	Symbols (batch watchlist: AAPL, MSFT, NVDA)	コード（まとめて監視：AAPL, MSFT, NVDA）	Símbolos (lista: AAPL, MSFT, NVDA)	종목 코드 (일괄 관찰: AAPL, MSFT, NVDA)
+watch.only	仅监控行情，不代表持有股票	僅監控行情，不代表持有股票	Watch only; does not imply ownership	価格の監視のみ・保有株ではありません	Solo seguimiento; no implica tener acciones	시세 관찰만, 실제 보유를 의미하지 않음
+watch.save	确认并保存	確認並儲存	Confirm & save	確認して保存	Confirmar y guardar	확인 및 저장
+watch.manualRule	自选只显示价格与涨跌幅，不计持仓盈亏。添加会保留其他项目；编辑仅修改选中项。行情仍需单独同意联网。	自選僅顯示價格與漲跌幅，不計持倉損益。新增保留其他項目；編輯僅修改選取項。行情仍須同意連線。	Watchlist entries show prices and changes, never position PnL. Adds keep other entries; edits affect the selected row. Quotes require online consent.	監視銘柄は価格と騰落率のみ表示し、保有損益には含めません。他の項目は保持します。行情には通信の同意が必要です。	La lista muestra precios y cambios, sin resultado de cartera. Añadir conserva el resto; editar solo cambia la fila elegida. Los precios requieren permiso de conexión.	관찰 종목은 가격과 등락률만 표시하며 보유 손익에 포함하지 않습니다. 다른 항목은 유지하고 선택 항목만 편집합니다. 시세 연결에는 동의가 필요합니다.
+watch.codesInvalid	请填写有效美股代码，例如 AAPL、MSFT 或 BRK.B。	請填有效美股代碼，例如 AAPL、MSFT 或 BRK.B。	Enter valid US symbols, such as AAPL, MSFT or BRK.B.	AAPL、MSFT、BRK.Bなどの米国株コードを入力してください。	Introduce símbolos de EE. UU., como AAPL, MSFT o BRK.B.	AAPL, MSFT, BRK.B 같은 미국 종목 코드를 입력하세요.
+watch.single	编辑或填写持仓股数时，每次只支持一个代码。	編輯或填寫股數時，每次僅支援一個代碼。	Enter one symbol when editing or adding owned shares.	編集・保有株数の設定は1銘柄ずつ行ってください。	Edita o añade acciones de un solo símbolo cada vez.	편집하거나 보유 수량을 입력할 때는 코드 하나만 입력하세요.
+watch.select	请先选中要编辑或移除的股票。	請先選取要編輯或移除的股票。	Select a stock to edit or remove.	編集・削除する銘柄を選んでください。	Selecciona un valor para editarlo o quitarlo.	편집하거나 제거할 종목을 먼저 선택하세요.
+watch.add	＋ 按代码添加	＋ 依代碼新增	＋ Add symbols	＋ コードで追加	＋ Añadir símbolos	＋ 코드로 추가
+watch.edit	编辑选中	編輯選取項	Edit selected	選択を編集	Editar selección	선택 편집
+watch.remove	移除选中	移除選取項	Remove selected	選択を削除	Quitar selección	선택 제거
+watch.mode	类型	類型	Type	種類	Tipo	유형
+watch.watching	自选监控	自選監控	Watchlist	監視	Seguimiento	관찰
+watch.holding	持仓	持倉	Holding	保有	Posición	보유
+watch.monitor	自选股票监控 · USD	自選股票監控 · USD	Stock watchlist · USD	株価の監視 · USD	Seguimiento de valores · USD	관심 종목 모니터 · USD
+watch.change	涨跌幅	漲跌幅	Change %	騰落率	Cambio %	등락률
+watch.noBaseline	仅价格，缺少昨收	僅價格，缺少前收	Price only; no prior close	価格のみ・前終値なし	Solo precio; sin cierre previo	가격만, 이전 종가 없음
+main.watchCount	{0} 只自选股	{0} 檔自選股	{0} watched stocks	{0} 銘柄を監視	{0} valores en seguimiento	관찰 종목 {0}개
+main.watchCoverage	自选行情 {0} / {1} · 每 5 分钟刷新	自選行情 {0} / {1} · 每 5 分鐘更新	Watchlist quotes {0} / {1} · refresh every 5 min	監視価格 {0} / {1} · 5分ごとに更新	Precios de lista {0} / {1} · cada 5 min	관찰 시세 {0} / {1} · 5분마다 갱신
+stock.enable	开启股票监控与持仓（可选，显示在主页最下方）	開啟股票監控與持倉（選用，顯示於主頁最下方）	Enable stocks (optional, shown at the bottom of home)	株価監視・保有株を有効にする（任意、ホームの一番下）	Activar valores (opcional, al final del inicio)	주식 모니터 켜기 (선택, 홈 맨 아래 표시)
+tab.stocks	股票	股票	Stocks	株式	Valores	주식
+stock.tabTitle	股票监控与持仓（测试版）	股票監控與持倉（測試版）	Stock watchlist & holdings (beta)	株価監視・保有株（ベータ）	Seguimiento y cartera (beta)	종목 모니터 및 보유 주식 (베타)
+stock.tabSummary	自选 {0} 项 · 持仓 {1} 项	自選 {0} 項 · 持倉 {1} 項	Watchlist {0} · Holdings {1}	監視 {0} 件 · 保有 {1} 件	Lista {0} · Posiciones {1}	관찰 {0}개 · 보유 {1}개
+stock.tabHelp	本页先保存为草稿，点击“保存并应用”后才生效；取消设置会放弃修改。可按代码监控，或通过文件、粘贴、截图和扩展导入持仓。行情联网仍需单独同意。	此頁先保留草稿，按「儲存並套用」才生效；取消設定會放棄修改。可依代碼監控，或經檔案、貼上、截圖與擴充匯入持倉。行情連線仍須另行同意。	Changes stay in a draft until Save & apply; cancelling discards them. Add symbols or import holdings by file, paste, OCR or extension. Online quotes require separate consent.	変更は「保存して適用」まで下書きです。キャンセルで破棄します。コード追加、ファイル・貼付・OCR・拡張での取込に対応。行情通信は別途同意が必要です。	Los cambios quedan en borrador hasta guardar; cancelar los descarta. Añade símbolos o importa por archivo, texto, OCR o extensión. Los precios en línea requieren permiso aparte.	변경은 저장 및 적용 전까지 초안이며 취소하면 버립니다. 코드 추가, 파일, 붙여넣기, OCR, 확장을 지원합니다. 시세 연결에는 별도 동의가 필요합니다.
+stock.welcomeTitle	是否开启股票功能？	是否開啟股票功能？	Enable stock features?	株式機能を有効にしますか？	¿Activar las funciones de valores?	주식 기능을 켤까요?
+stock.welcomeHelp	可以按代码监控美股，也可以导入持仓查看估算盈亏。开启后将直接进入“股票”标签页，主页股票模块显示在最下方。也可以稍后在设置中开启。	可依代碼監控美股，也可匯入持倉查看估算損益。開啟後直接進入「股票」頁，主頁模組顯示在最下方。也可稍後啟用。	Watch US stocks by symbol or import holdings for estimated PnL. Enable to go straight to the Stocks tab; the home module appears at the bottom. You can enable it later too.	コードで米国株を監視したり、保有株の推定損益を確認できます。有効にすると「株式」タブへ進み、ホーム最下部に表示します。後からでも変更できます。	Sigue valores de EE. UU. o importa tu cartera. Al activar irás a Valores y el módulo aparecerá al final del inicio. También puedes activarlo más tarde.	미국 주식 코드 관찰 또는 보유 손익 추정을 지원합니다. 켜면 주식 탭으로 이동하고 홈 맨 아래에 표시됩니다. 나중에 설정할 수도 있습니다.
+stock.welcomeYes	开启股票功能	開啟股票功能	Enable stocks	株式を有効にする	Activar valores	주식 기능 켜기
+stock.welcomeNo	暂不开启	暫不開啟	Not now	今は使わない	Ahora no	나중에
