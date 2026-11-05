@@ -136,7 +136,7 @@ function refresh(animate) {
   const s = settings, at = now(), data = E.calculate(at, s);
   flip.set(privacy ? "••••••" : E.format(data.today, s), s, animate);
   text("dateText", dateLabel(at));
-  text("statusText", t(demo ? "main.demoBadge" : data.statusKey));
+  text("statusText", demo ? t("main.demoBadge") : data.statusKey === "status.break" ? t("web.breakResume", s.LunchEnd) : t(data.statusKey));
   text("subtitleText", loadNotice ? t(loadNotice) : t(s.Configured ? "main.subtitle" : "main.setupHint"));
   text("rateText", privacy ? t("main.hidden") : t("main.rate", E.symbol(s.Currency) + data.rate.toFixed(4)));
   text("countdownLabel", t(data.countdownKey));

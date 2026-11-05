@@ -24,6 +24,7 @@ const OVERRIDES = {
   "currency.twd": ["新台币 · TWD / NT$", "新台幣 · TWD / NT$", "New Taiwan dollar · TWD / NT$", "台湾ドル · TWD / NT$", "Nuevo dólar taiwanés · TWD / NT$", "대만 달러 · TWD / NT$"],
   "currency.sgd": ["新加坡元 · SGD / S$", "新加坡元 · SGD / S$", "Singapore dollar · SGD / S$", "シンガポールドル · SGD / S$", "Dólar de Singapur · SGD / S$", "싱가포르 달러 · SGD / S$"],
   "currency.myr": ["马来西亚林吉特 · MYR / RM", "馬來西亞令吉 · MYR / RM", "Malaysian ringgit · MYR / RM", "マレーシア・リンギット · MYR / RM", "Ringgit malayo · MYR / RM", "말레이시아 링깃 · MYR / RM"],
+  "web.breakResume": ["休息中 · {0} 恢复计薪", "休息中 · {0} 恢復計薪", "On a break · pay resumes {0}", "休憩中 · {0} に再開", "En pausa · se reanuda a las {0}", "휴식 중 · {0} 재개"],
   "web.credit": [
     "基于开源项目 Slaves Encourager（MIT）改编的网页版",
     "改編自開源專案 Slaves Encourager（MIT）的網頁版",
